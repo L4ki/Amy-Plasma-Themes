@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="dialog-cancel.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="9.2513137"
+     inkscape:cx="23.888499"
+     inkscape:cy="4.6479885"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1058" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:2.99634"
+     class="ColorScheme-Text"
+     d="M 24.986099,4 A 2.9963422,2.9963422 0 0 0 22.867592,4.8778345 L 15.997073,11.748354 9.155815,4.9070956 A 2.9963422,2.9963422 0 0 0 9.126555,4.8778346 2.9963422,2.9963422 0 0 0 7.025604,4.0117044 l -0.02926,0.040966 A 2.9963422,2.9963422 0 0 0 4,7.0490121 2.9963422,2.9963422 0 0 0 4.8778348,9.1675191 L 11.748354,16.038039 4.8778348,22.908558 A 2.9963422,2.9963422 0 0 0 4.0117043,25.003658 2.9963422,2.9963422 0 0 0 7.008046,28 2.9963422,2.9963422 0 0 0 9.126554,27.122165 l 6.870519,-6.87052 6.841257,6.841257 A 2.9963422,2.9963422 0 0 0 24.986099,28 a 2.9963422,2.9963422 0 0 0 2.996342,-2.996342 2.9963422,2.9963422 0 0 0 -0.877832,-2.11851 l -6.89393,-6.888075 6.841257,-6.8412579 A 2.9963422,2.9963422 0 0 0 27.982441,6.9963421 2.9963422,2.9963422 0 0 0 24.986099,4 Z"
+     id="path5" />
+</svg>
