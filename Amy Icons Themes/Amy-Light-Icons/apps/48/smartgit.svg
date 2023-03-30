@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="smartgit.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <defs
+     id="defs22">
+    <linearGradient
+       id="a"
+       y1="543.77"
+       x1="407.63"
+       y2="504.13"
+       x2="407.69"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#c6cdd1"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#e0e5e7"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y1="513.81"
+       x1="401.58"
+       y2="532.44"
+       x2="401.92"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#9559b6"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#8e44ad"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       y1="516.47"
+       x1="417.87"
+       y2="533.46"
+       x2="417.53"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#1d99f3"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#2972a7"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="d"
+       y1="26.03"
+       x1="29.439"
+       y2="35.796"
+       x2="38.26"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#292c2f"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#292c2f"
+         stop-opacity="0"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="matrix(1.0499209,0,0,1.0499209,-404.96777,-525.95014)"
+     id="g40">
+    <rect
+       width="40"
+       x="388.57001"
+       y="503.79999"
+       fill="url(#a)"
+       rx="20"
+       height="40"
+       id="rect24"
+       ry="20"
+       style="fill:url(#a)" />
+    <g
+       font-size="12.666px"
+       id="g28">
+      <text
+         x="730.88"
+         y="132.19"
+         font-family="'Droid Sans'"
+         id="text26" />
+    </g>
+    <g
+       transform="translate(384.57,499.8)"
+       id="g34">
+      <path
+         opacity="0.2"
+         fill="url(#d)"
+         d="m 38.902,23.994 c 0,0 -13.643,5.975 -14.715,9.939 l 10.07,10.07 h 6.746 c 1.662,0 3,-1.338 3,-3 V 29.095 Z"
+         id="path32"
+         style="fill:url(#d)" />
+    </g>
+    <path
+       fill="url(#c)"
+       d="m 412.22,516.23 -0.861,4.291 5.211,3.256 -6.703,4.189 -1.15,5.732 14.854,-9.902 z"
+       id="path36"
+       style="fill:url(#c)" />
+    <path
+       fill="url(#b)"
+       d="m 408.57,513.8 -15,10 11.514,7.676 0.869,-4.332 -5.383,-3.363 6.926,-4.328 1.125,-5.617 z"
+       id="path38"
+       style="fill:url(#b)" />
+  </g>
+</svg>
