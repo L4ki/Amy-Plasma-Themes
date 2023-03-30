@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="dialog-information.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16.067797"
+     inkscape:cy="16.067797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs7">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient885">
+      <stop
+         style="stop-color:#5294e2;stop-opacity:1;"
+         offset="0"
+         id="stop881" />
+      <stop
+         style="stop-color:#88c0d0;stop-opacity:1;"
+         offset="1"
+         id="stop883" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="69.312"
+       x2="69.312"
+       y1="21.319"
+       y2="27.727"
+       gradientTransform="matrix(.19811 0 0 .23067 -32.626 24.95)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient885"
+       id="linearGradient887"
+       x1="0"
+       y1="32"
+       x2="27.061886"
+       y2="5.8748164"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="m16 1c-8.2768 0-15 6.7232-15 15 0 8.2768 6.7232 15 15 15 8.2768 0 15-6.7232 15-15 0-8.2768-6.7232-15-15-15z"
+     color="#000000"
+     opacity=".99"
+     overflow="visible"
+     stroke-width="1.0343"
+     id="path9"
+     style="fill-opacity:1;fill:url(#linearGradient887);opacity:1" />
+  <path
+     d="m-37.285 7.371h32v32h-32z"
+     fill="none"
+     id="path11" />
+  <path
+     d="M-18.188 30.095c-.404.324-.793.78-1.306.823"
+     fill="none"
+     font-family="URW Palladio L"
+     font-size="40"
+     font-weight="700"
+     opacity=".1"
+     stroke="url(#b)"
+     id="path13" />
+  <rect
+     transform="scale(1,-1)"
+     x="14"
+     y="-26"
+     width="4"
+     height="14"
+     rx="2"
+     ry="2"
+     fill="#ffffff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="2"
+     stroke-width="2"
+     id="rect15" />
+  <circle
+     transform="scale(1,-1)"
+     cx="16"
+     cy="-8"
+     r="2"
+     fill="#ffffff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="2"
+     stroke-width="2"
+     id="circle17" />
+</svg>
