@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   version="1.1"
+   height="32"
+   id="svg1409"
+   sodipodi:docname="preferences-system-network-sharing.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1411"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.186441"
+     inkscape:cy="16.067797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient888"
+       x1="393.3544"
+       y1="518.07086"
+       x2="395.57144"
+       y2="535.79797"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient886">
+      <stop
+         style="stop-color:#8a8a8a;stop-opacity:1;"
+         offset="0"
+         id="stop882" />
+      <stop
+         style="stop-color:#505050;stop-opacity:1;"
+         offset="1"
+         id="stop884" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       gradientUnits="userSpaceOnUse"
+       x1="12.793006"
+       x2="20.000004"
+       y1="7.706984"
+       y2="14.999982">
+      <stop
+         offset="0"
+         stop-color="#292c2f"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5458" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1 0 0 1 -384.57143 -515.798)">
+    <g
+       transform="matrix(1.5555533,0,0,1.5555533,-214.76103,-287.66435)"
+       id="g23">
+      <rect
+         height="18.000008"
+         rx="9"
+         stroke-width="0.642857"
+         width="18"
+         x="386.57144"
+         y="517.79797"
+         id="rect17"
+         style="fill:url(#linearGradient888);fill-opacity:1" />
+      <path
+         d="M 14.207031,6.2929688 12.792969,7.7070312 20,15 V 12 Z M 11.853516,7.9960938 11.146484,8.703125 20,17.558594 V 16.142578 Z M 9.8535156,9.296875 9.1464844,10.003906 13.820312,14.679688 13.529297,14.970703 11.853516,13.296875 11.556641,13.59375 8.2070312,10.292969 6.7929688,11.707031 15.033203,20 H 20 v -0.558594 z"
+         fill="url(#b)"
+         fill-rule="evenodd"
+         opacity="0.2"
+         stroke-width="0.642857"
+         transform="translate(384.57143,515.798)"
+         id="path19"
+         style="fill:url(#b)" />
+      <path
+         d="m 13.5,6 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m -2,1.8496094 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -2,1.3007812 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5000004 0.5,0.5 0 0 0 0.5,-0.5000004 0.5,0.5 0 0 0 -0.5,-0.5 z M 7.5,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 2,1.849609 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 2,1.300782 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z M 13.5,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+         stroke-width="2"
+         transform="translate(384.57143,515.798)"
+         id="path21"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
