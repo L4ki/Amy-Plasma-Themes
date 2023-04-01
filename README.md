@@ -4,7 +4,7 @@ Amy Themes For Plasma Desktop
 Plasma Theme: "Amy-Plasma" 
 -------------------------
 
-Download: 
+Download: https://www.pling.com/p/2011600
 -------------------------------------------
 
 
