@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="login.svg"
+   id="svg6"
+   version="1.1"
+   viewBox="0 0 32 32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:lockguides="false"
+     inkscape:current-layer="svg6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="24.483571"
+     inkscape:cx="-5.6126598"
+     inkscape:zoom="11.313709"
+     showgrid="true"
+     id="namedview8"
+     inkscape:window-height="1002"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#ff0202"
+     pagecolor="#000000"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#000000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid191" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+  </defs>
+  <g
+     id="system-log-out"
+     transform="translate(-189)">
+    <g
+       id="g1698">
+      <path
+         style="color:#000000;overflow:visible;opacity:0;fill:none;fill-opacity:1;stroke-width:1.06667"
+         id="path951"
+         overflow="visible"
+         d="m 205,0 c -8.82763,0 -16,7.1723733 -16,16 0,8.827627 7.17237,16 16,16 8.82763,0 16,-7.172373 16,-16 0,-8.8276267 -7.17237,-16 -16,-16 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <path
+     d="m 23.90816,12.887757 c -0.0011,-0.119182 -0.05438,-0.232849 -0.1456,-0.317213 L 18.936733,8.1175295 C 18.794458,7.9864603 18.58075,7.9473457 18.39498,8.0182006 18.209231,8.0892696 18.088255,8.256372 18.08805,8.441912 l -0.01745,2.430592 c -6.186998,0.05939 -10.4084015,4.048506 -9.944074,9.448114 0.1474742,1.083975 0.4168558,2.158504 0.8132586,3.175275 v 2.11e-4 c 0.08125,0.208885 0.3126825,0.334215 0.5499325,0.297555 0.237033,-0.03646 0.4119261,-0.224451 0.4152739,-0.446233 0.06803,-4.328446 3.192865,-8.118861 8.183186,-8.269764 v 2.27033 c 2.38e-4,0.18554 0.121128,0.352648 0.30693,0.423712 0.18577,0.07083 0.399501,0.03175 0.541764,-0.0993 l 4.825839,-4.453026 c 0.09512,-0.08778 0.147582,-0.20745 0.145578,-0.331542 z m -1.200008,0.0076 h -1.73e-4 -1.1e-5 v 0 0 0 0 0 0 0 0 0 z"
+     id="path2-367"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+     style="fill:#bac8df;fill-opacity:1;stroke-width:0.0545762" />
+  <path
+     style="color:#d6dbf1;fill:none;fill-opacity:1;stroke:#bac8df;stroke-width:1.7377;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#31363b"
+     sodipodi:type="arc"
+     sodipodi:cx="-16"
+     sodipodi:cy="-16.000004"
+     sodipodi:rx="12.135044"
+     sodipodi:ry="12.135044"
+     sodipodi:start="3.7596615"
+     sodipodi:end="3.7588303"
+     sodipodi:open="true"
+     sodipodi:arc-type="arc"
+     transform="scale(-1)"
+     d="m -25.890049,-23.031805 a 12.135044,12.135044 0 0 1 16.9197949,-2.859709 12.135044,12.135044 0 0 1 2.8632245,16.9192005 12.135044,12.135044 0 0 1 -16.9186044,2.8667403 12.135044,12.135044 0 0 1 -2.870256,-16.9180088"
+     id="path7-6"
+     class="ColorScheme-Text" />
+</svg>

@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Amy-SDDM
+Description=Amy-SDDM Login Screen
+
+Author=KDE Visual Design Group (Modified by l4k1)
+Copyright=(c) 2014, David Edmundson
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=l4k1987@gmail.com
+Theme-Id=Amy-SDDM
+Theme-API=2.0
