@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Amy Dark Global Theme by l4k1
+Name=Amy-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Amy-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1982078,kns://colorschemes.knsrc/api.kde-look.org/1982082,kns://plasma-themes.knsrc/api.kde-look.org/1982111,kns://icons.knsrc/api.kde-look.org/1982098,kns://icons.knsrc/api.kde-look.org/1982094,kns://aurorae.knsrc/api.kde-look.org/1982091,kns://aurorae.knsrc/api.kde-look.org/1982089,kns://aurorae.knsrc/api.kde-look.org/1982086,kns://wallpaper.knsrc/api.kde-look.org/1982059,kns://wallpaper.knsrc/api.kde-look.org/1982059,kns://sddmtheme.knsrc/api.kde-look.org/1982074
