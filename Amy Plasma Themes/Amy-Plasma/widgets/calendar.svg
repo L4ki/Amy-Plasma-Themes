@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30"
+   height="30"
+   id="svg4423"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="calendar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#000bfe"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.5775127"
+     inkscape:cx="22.675571"
+     inkscape:cy="24.657498"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#000000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3851"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4425" />
+  <metadata
+     id="metadata4428">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1022.3622)">
+    <g
+       id="event">
+      <path
+         style="color:#565d8a;fill:#4e70ac;fill-opacity:0.80000001;stroke:#4e70ac;stroke-width:0.986819;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#31363b"
+         sodipodi:type="arc"
+         sodipodi:cx="-22.000019"
+         sodipodi:cy="-1044.3622"
+         sodipodi:rx="7.5067921"
+         sodipodi:ry="7.5067554"
+         sodipodi:start="4.2664334"
+         sodipodi:end="4.2566896"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         transform="scale(-1)"
+         id="path7-3"
+         d="m -25.23785,-1051.1348 a 7.5067921,7.5067554 0 0 1 10.002543,3.5183 7.5067921,7.5067554 0 0 1 -3.493924,10.011 7.5067921,7.5067554 0 0 1 -10.019566,-3.4695 7.5067921,7.5067554 0 0 1 3.445111,-10.0279"
+         class="ColorScheme-Highlight" />
+      <circle
+         style="color:#d1d5e9;fill:#bac8df;fill-opacity:1;fill-rule:evenodd;stroke-width:1.02566"
+         id="path1899"
+         cx="21.999987"
+         cy="1044.3622"
+         r="3.0769241"
+         class="ColorScheme-Text" />
+    </g>
+  </g>
+</svg>

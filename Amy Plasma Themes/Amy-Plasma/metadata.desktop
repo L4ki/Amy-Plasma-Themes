@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Amy-Plasma
+Comment=Amy Dark Plasma Theme by l4k1
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=lak1987@gmail.com
+X-KDE-PluginInfo-Name=Amy-Plasma
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true
