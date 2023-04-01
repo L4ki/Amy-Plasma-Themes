@@ -1,8 +1,8 @@
 # Amy-Plasma-Themes
 Amy Themes For Plasma Desktop
 
-"Amy-Plasma" 
-------------------
+Plasma Theme: "Amy-Plasma" 
+-------------------------
 
 Download: https:
 -------------------------------------------
