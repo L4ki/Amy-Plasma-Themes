@@ -34,8 +34,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="50.374997"
-     inkscape:cx="84.499996"
+     inkscape:cy="58.374997"
+     inkscape:cx="94.124996"
      inkscape:zoom="4.0000002"
      showgrid="true"
      id="namedview202"
@@ -240,7 +240,7 @@
      id="hint-top-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.816448" />
   <rect
-     style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.816537"
+     style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.816535"
      id="hint-bottom-margin"
      width="4"
      height="4.0003853"
@@ -248,20 +248,20 @@
      y="50" />
   <rect
      transform="rotate(90)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.408248"
+     style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.816496"
      id="hint-right-margin"
      width="4"
-     height="1"
+     height="4"
      x="27"
      y="-86" />
   <rect
      transform="rotate(90)"
-     y="-45"
+     y="-48.3288"
      x="32"
-     height="1"
+     height="4.3288012"
      width="4"
      id="hint-left-margin"
-     style="opacity:0.01;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.408248" />
+     style="opacity:0.01;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.849391" />
   <g
      style="opacity:0.5"
      transform="matrix(0.37500332,0,0,1.4444434,52.874889,-1297.6333)"
@@ -541,9 +541,9 @@
      x="31.000011"
      y="-86"
      width="3.9999771"
-     height="1"
+     height="4"
      fill="#ff00ff"
-     style="opacity:0.01;fill:#00ffff;stroke-width:0.353554" />
+     style="opacity:0.01;fill:#00ffff;stroke-width:0.707109" />
   <rect
      id="shadow-hint-right-inset"
      transform="rotate(90)"
@@ -573,11 +573,11 @@
      id="thick-hint-left-margin"
      transform="rotate(90)"
      x="26.999989"
-     y="-45"
+     y="-48"
      width="4.0000229"
-     height="1"
+     height="4"
      fill="#ff00ff"
-     style="opacity:0.01;fill:#008080;stroke-width:0.353554" />
+     style="opacity:0.01;fill:#008080;stroke-width:0.707108" />
   <rect
      id="shadow-hint-left-inset"
      transform="rotate(90)"
@@ -662,7 +662,7 @@
      id="top">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="fill:#222638;fill-opacity:0.80000001;stroke:none;stroke-width:1.01036"
+       style="fill:#222638;fill-opacity:0.8;stroke:none;stroke-width:1.01036"
        id="rect4152"
        width="14"
        height="14"
@@ -683,11 +683,11 @@
      id="bottom">
     <rect
        y="-72"
-       x="40"
+       x="39.999996"
        height="14"
        width="13.999999"
        id="rect4148"
-       style="fill:#222638;fill-opacity:0.80000001;stroke:none;stroke-width:1.01036"
+       style="fill:#222638;fill-opacity:0.8;stroke:none;stroke-width:1.01036"
        transform="rotate(90)"
        class="ColorScheme-Background" />
     <rect
@@ -703,11 +703,11 @@
   <g
      id="right">
     <rect
-       style="fill:#222638;fill-opacity:0.80000001;stroke:none;stroke-width:1.01036"
+       style="fill:#222638;fill-opacity:0.8;stroke:none;stroke-width:1.01036"
        id="rect4140"
        width="14"
        height="14"
-       x="72.000031"
+       x="72"
        y="26.000404"
        class="ColorScheme-Background" />
     <rect
@@ -728,7 +728,7 @@
        height="14"
        width="14"
        id="rect4144"
-       style="fill:#222638;fill-opacity:0.80000001;stroke:none;stroke-width:1.01036"
+       style="fill:#222638;fill-opacity:0.8;stroke:none;stroke-width:1.01036"
        transform="scale(-1,1)"
        class="ColorScheme-Background" />
     <rect
