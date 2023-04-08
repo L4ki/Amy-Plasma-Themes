@@ -37,8 +37,8 @@ Screenshots "Amy-Plasma":
 
 ![5](https://user-images.githubusercontent.com/45247573/229272584-04108754-a59c-4041-9d7b-f33346786a47.png)
 
-Changelog:
-----------
+Changelog: 08.04.2023.
+----------------------
 
 GTK Theme
 ----------
