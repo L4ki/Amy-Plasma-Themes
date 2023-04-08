@@ -36,3 +36,21 @@ Screenshots "Amy-Plasma":
 ![4](https://user-images.githubusercontent.com/45247573/229272570-018486ab-f425-45f3-8474-69eb2f01909e.png)
 
 ![5](https://user-images.githubusercontent.com/45247573/229272584-04108754-a59c-4041-9d7b-f33346786a47.png)
+
+Changelog:
+----------
+
+GTK Theme
+----------
+
+Update:  checkbox-unchecked-insensitive.png, checkbox-unchecked.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widgets: panel-background.svg
