@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   width="32"
+   height="32"
+   version="1.0"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="computer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="22-22-computer"
+     transform="translate(2.000001,-31)"
+     style="fill:#1e2431;fill-opacity:1">
+    <rect
+       style="opacity:0.00100002;fill:#1e2431;fill-opacity:1;stroke-width:1"
+       width="22"
+       height="22"
+       x="2.2198915e-10"
+       y="1.0065011e-09"
+       id="rect7" />
+    <path
+       d="M 18.644957,2 H 2.999999 c -1.298463,0 -2,0.7889841 -2,2 v 12 c 0,1.211234 0.599999,2 2,2 h 4 v 0 c -2,0 -2,2 0,2 h 8 c 2,0 2,-2 0,-2 v 0 h 4 c 1.298474,0 2,-0.788982 2,-2 V 4 c -6e-6,-1.2112301 -0.701527,-2 -2,-2 z M 2.999999,3 h 16 c 0,0 1,0 1,1 v 9 h -18 V 4 c 0,-1 1,-1 1,-1 z m 12,15 h -7 v 0 0 0 h -1 v 0 h 8 c 2,0 0,0 0,0 z m 4,-1 h -16 c 0,0 -1,0 -1,-1 v -2 h 18 v 2 c 0,1 -1,1 -1,1 z"
+       id="path16-3-3"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.0546714"
+       sodipodi:nodetypes="cssssccccccsscsccccccsccccccccccccccccc" />
+  </g>
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text { color:#d1d5e9; }
+</style>
+  <g
+     id="computer-laptop"
+     transform="translate(2.000001,-31)">
+    <rect
+       y="31"
+       x="29.999998"
+       height="32"
+       width="32"
+       id="rect820-3"
+       style="clip-rule:evenodd;fill:#2020ff;fill-opacity:0;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+    <path
+       d="m 32.999639,52 h -0.99964 v 0.965842 2.376463 c 0,0.91394 0.741182,1.657695 1.651962,1.657695 h 24.696075 c 0.910781,0 1.651963,-0.743755 1.651963,-1.657695 V 52.965842 52 h -1.00036 z m 26,3.342666 c 0,0.367512 -0.249841,0.657333 -0.651964,0.657333 H 33.651639 c -0.322425,0 -0.652,-0.234236 -0.652,-0.657333 v -2.342665 h 26 z"
+       id="path4-3"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.361473"
+       sodipodi:nodetypes="cccssssccccssssccs"
+       class="ColorScheme-Text" />
+    <path
+       d="M 58.348058,37 H 33.651939 c -0.910768,0 -1.65194,0.753884 -1.65194,1.679905 V 52 h 1 V 38.680272 C 32.999999,38.357126 33.337107,38 33.651579,38 h 24.696479 c 0.445515,0 0.651941,0.277424 0.651941,0.680272 V 52 h 1 V 38.680272 C 59.999638,37.753884 59.258826,37 58.348058,37 Z"
+       id="path6-5"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.363924"
+       sodipodi:nodetypes="sssccsssscccs"
+       class="ColorScheme-Text" />
+  </g>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#0b00ff"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     id="namedview24"
+     showgrid="true"
+     inkscape:zoom="8"
+     inkscape:cx="20.5"
+     inkscape:cy="2.5625"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0"
+     showguides="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#000000"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3104"
+       originx="0"
+       originy="-3.6468499e-09" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <style
+       id="style17"
+       type="text/css" />
+  </defs>
+  <g
+     style="fill:none;stroke:#ffffff"
+     id="g4171"
+     transform="translate(-102.16679,-19.062146)">
+    <g
+       transform="translate(-38.38147,-1006.1003)"
+       style="stroke-width:0.5"
+       id="g4173" />
+    <g
+       transform="translate(-39.59798,-1004.3622)"
+       style="stroke-width:0.4"
+       id="g4175" />
+  </g>
+  <g
+     id="22-22-computer-laptop"
+     style="fill:#1e2431;fill-opacity:1"
+     transform="translate(2.000001,-31)">
+    <rect
+       style="opacity:0.00100002;fill:#1e2431;fill-opacity:1"
+       width="22"
+       height="22"
+       x="32"
+       y="-1.0065015e-09"
+       id="rect2" />
+    <path
+       d="m 34,14.999998 h -1 v 0.999999 2.000001 c 0,0.685325 0.349452,1 1,1 h 18 c 0.650549,0 1,-0.314675 1,-1 v -2 -1 h -1 z m 18,3 v 0 H 34 v 0 -2 h 18 z"
+       id="path4-6-3"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.264545"
+       sodipodi:nodetypes="cccssssccccccccccc"
+       class="ColorScheme-Text" />
+    <path
+       d="M 52,4 H 34 c -0.650538,0 -1,0.305606 -1,1 v 9.999998 h 1 V 5 5 h 18 v 0 9.999998 h 1 V 5 C 52.999752,4.305339 52.650547,4 52,4 Z"
+       id="path6-7-5"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.266339"
+       sodipodi:nodetypes="ssscccccccccs"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="computer">
+    <rect
+       y="3.6468506e-09"
+       x="0"
+       height="32"
+       width="32"
+       id="rect820"
+       style="clip-rule:evenodd;fill:#2020ff;fill-opacity:0;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+    <path
+       d="M 26.702948,4 H 5.2988197 C 3.4809663,4 2,5.314296 2,6.928923 v 15.150844 c 0,1.614922 1.4812912,2.937464 3.2988197,2.930533 L 10,25 v 0 c -2,0 -2,3 0,3 h 12 c 2,0 2,-3 0,-3 h -1 l 5.703,0.0103 C 28.52085,25.013583 30,23.6944 30,22.079767 V 6.928923 C 29.999994,5.314012 28.520853,4 26.703,4 Z M 5.2988197,5 H 27 c 1.00237,0 2,1 2,2 V 19 H 3 V 7 C 3,6 4,5 5.2984314,5 Z M 21,25 H 11 v 0 0 0 0 0 h 10 c 0.0261,0.01275 0,0 0,0 h 1 v 0 z m 5.703433,-1 H 5 C 4,24 3,23 3,22.000454 V 20 h 26 v 2 c 0,1 -1,2 -2,2 z"
+       id="path16-3"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.0746953"
+       sodipodi:nodetypes="cssssccccccsscsccssccssccccccccccccccccssccc" />
+  </g>
+</svg>
