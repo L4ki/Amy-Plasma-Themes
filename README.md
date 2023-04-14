@@ -54,3 +54,21 @@ Plasma Theme
 -------------
 
 Update widgets: panel-background.svg
+
+Changelog: 16.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: notebook-gap-horiz.png, notebook-gap-vert.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
