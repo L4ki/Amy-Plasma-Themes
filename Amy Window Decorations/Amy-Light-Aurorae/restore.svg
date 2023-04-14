@@ -54,7 +54,7 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="5.6568543"
-     inkscape:cx="78.135299"
+     inkscape:cx="69.826794"
      inkscape:cy="20.417708"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -484,7 +484,7 @@
        x="3.2364554e-07"
        y="5.3065374e-08" />
     <rect
-       style="fill:none;stroke:#81b4fe;stroke-width:2.08916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+       style="fill:none;stroke:#1e2431;stroke-width:2.08916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.40000001"
        id="rect3836-22"
        width="6.435997"
        height="6.435997"
@@ -509,7 +509,7 @@
        id="rect3850"
        style="opacity:0.00100002;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:1.03125" />
     <rect
-       style="fill:none;stroke:#1e2431;stroke-width:2.08916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.40000001"
+       style="fill:none;stroke:#00f5c3;stroke-width:2.08916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3836-9"
        width="6.435997"
        height="6.435997"
