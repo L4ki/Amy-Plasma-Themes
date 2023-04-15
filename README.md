@@ -76,7 +76,7 @@ Plasma Theme
 
 Update widgets: panel-background.svg
 
-Changelog: 16.04.2023.
+Changelog: 15.04.2023.
 ----------------------
 
 GTK Theme
