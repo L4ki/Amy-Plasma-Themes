@@ -25,7 +25,7 @@
      type="text/css">.ColorScheme-Highlight { color:#565d8a;    stop-color:#565d8a; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="1004"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -37,7 +37,7 @@
      pagecolor="#000000"
      id="base"
      inkscape:zoom="4"
-     inkscape:cx="68.375"
+     inkscape:cx="57.625"
      inkscape:cy="73.625"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -6312,7 +6312,7 @@
      transform="matrix(1,0,0,1.6666665,8.0000077,-160.99996)" />
   <g
      id="separator"
-     transform="matrix(0.83333333,0,0,1,11.666667,0)">
+     transform="matrix(0.83333333,0,0,1,11.666667,7)">
     <rect
        x="70"
        y="45"
@@ -6320,7 +6320,7 @@
        height="3"
        ry="0"
        rx="0"
-       style="color:#000000;opacity:0.01000001;fill:#000000;fill-opacity:0.00392157"
+       style="color:#000000;opacity:0.01;fill:#000000;fill-opacity:0.00392157"
        id="separator-3" />
     <rect
        x="70"
@@ -6333,7 +6333,8 @@
        id="separator1" />
   </g>
   <g
-     id="g2549">
+     id="g2549"
+     transform="translate(0,10)">
     <g
        id="hover-center">
       <rect
@@ -6348,7 +6349,8 @@
     </g>
   </g>
   <g
-     id="hover-top">
+     id="hover-top"
+     transform="translate(0,10)">
     <rect
        y="10"
        x="91.999992"
@@ -6367,7 +6369,7 @@
   </g>
   <g
      id="section-left-2"
-     transform="translate(78.000008,-88.999985)"
+     transform="translate(78.000008,-78.999985)"
      style="fill:#556fa6;fill-opacity:1">
     <g
        id="hover-left">
@@ -6391,7 +6393,7 @@
   </g>
   <g
      id="section-bottom-3"
-     transform="translate(78.000008,-88.999985)"
+     transform="translate(78.000008,-78.999985)"
      style="fill:#556fa6;fill-opacity:1">
     <g
        id="hover-bottom">
@@ -6414,7 +6416,8 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-right">
+     id="hover-right"
+     transform="translate(0,10)">
     <rect
        y="18.999992"
        x="99.999992"
@@ -6433,7 +6436,8 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-topleft">
+     id="hover-topleft"
+     transform="translate(0,10)">
     <rect
        y="10"
        x="83.000008"
@@ -6451,7 +6455,8 @@
        class="ColorScheme-Highlight " />
   </g>
   <g
-     id="hover-topright">
+     id="hover-topright"
+     transform="translate(0,10)">
     <rect
        y="10"
        x="99.999992"
@@ -6469,7 +6474,8 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-bottomleft">
+     id="hover-bottomleft"
+     transform="translate(0,10)">
     <rect
        y="27.000015"
        x="83.000008"
@@ -6487,7 +6493,8 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-bottomright">
+     id="hover-bottomright"
+     transform="translate(0,10)">
     <rect
        y="27.000015"
        x="99.999992"
@@ -6505,7 +6512,8 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-hint-top-margin">
+     id="hover-hint-top-margin"
+     transform="translate(0,10)">
     <rect
        style="opacity:0.01;fill:#556fa6;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3782-6-3)"
        id="section-hint-top-margin-7"
@@ -6516,7 +6524,8 @@
        transform="matrix(1,0,0,1.6666718,78.000008,-155.0005)" />
   </g>
   <g
-     id="hover-hint-right-margin">
+     id="hover-hint-right-margin"
+     transform="translate(0,10)">
     <rect
        style="opacity:0.01;fill:#556fa6;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3802-0-5)"
        id="section-hint-right-margin-8"
@@ -6527,7 +6536,8 @@
        transform="matrix(1.3333267,0,0,1,64.333525,4.5000153)" />
   </g>
   <g
-     id="hover-hint-left-margin">
+     id="hover-hint-left-margin"
+     transform="translate(0,10)">
     <rect
        y="16.5"
        x="4"
@@ -6538,7 +6548,8 @@
        transform="matrix(1.2333332,0,0,1,78.066676,3.5000153)" />
   </g>
   <g
-     id="hover-hint-bottom-margin">
+     id="hover-hint-bottom-margin"
+     transform="translate(0,10)">
     <rect
        y="120"
        x="15"
