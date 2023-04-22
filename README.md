@@ -93,3 +93,21 @@ Plasma Theme
 -------------
 
 Update widget: viewitem.svg
+
+Changelog: 22.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  combo-entry-button-active.png, combo-entry-button-active-rtl.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Update widget: listitem.svg
