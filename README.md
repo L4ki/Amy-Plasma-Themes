@@ -111,3 +111,21 @@ Plasma Themes
 -------------
 
 Update widget: listitem.svg
+
+Changelog: 29.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  combo-entry-ltr-entry-active.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
