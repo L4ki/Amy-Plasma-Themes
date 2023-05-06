@@ -129,3 +129,21 @@ Plasma Themes
 -------------
 
 Added icon: org.rnd2.cpupower_gui.svg
+
+Changelog: 06.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  focus-line.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: jami.svg
