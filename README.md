@@ -147,3 +147,21 @@ Plasma Themes
 -------------
 
 Added icon: jami.svg
+
+Changelog: 13.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  gtk-3.0, gtk-4.0
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: krfb.svg
