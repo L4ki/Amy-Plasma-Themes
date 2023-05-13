@@ -278,7 +278,7 @@ textview text,
   headerbar.selection-mode .view.subtitle:link,
   headerbar.selection-mode button.subtitle:link,
   headerbar.selection-mode button.subtitle:visited {
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
 
 textview border {
   background-color: @theme_base_color_breeze;
@@ -313,7 +313,7 @@ flowbox rubberband {
 
 flowbox flowboxchild {
   padding: 3px;
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
   flowbox flowboxchild:selected,
   flowbox headerbar.selection-mode flowboxchild.subtitle:link,
   flowbox headerbar.selection-mode button.subtitle:link,
@@ -570,6 +570,9 @@ headerbar.selection-mode headerbar flowbox button.subtitle:visited, label:disabl
       entry selection:backdrop:disabled {
         color: @insensitive_unfocused_selected_fg_color_breeze; }
 
+picture:disabled {
+  opacity: 0.5; }
+
 /***********
  * Buttons *
  ***********/
@@ -583,7 +586,7 @@ headerbar.selection-mode headerbar flowbox button.subtitle:visited, label:disabl
 button.osd,
 button {
   border: 1px solid;
-  border-radius: 3px;
+  border-radius: 0.75mm;
   padding: 6px 6px;
   background-clip: border-box;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.125);
@@ -685,6 +688,7 @@ button {
 
 button.image-button {
   min-width: 16px;
+  min-height: 16px;
   padding: 6px; }
 
 
@@ -757,7 +761,7 @@ headerbar.selection-mode headerbar button.subtitle:visited button {
   background-image: none; }
 
 .inline-toolbar button {
-  border-radius: 3px;
+  border-radius: 0.75mm;
   border-width: 1px; }
 
 .primary-toolbar button {
@@ -817,8 +821,8 @@ buttonbox.linked:not(.vertical):not(.dialog-action-area) button {
   box.inline-toolbar:not(.vertical):not(.dialog-action-area) button:first-child,
   buttonbox.linked:not(.vertical):not(.dialog-action-area) entry:first-child,
   buttonbox.linked:not(.vertical):not(.dialog-action-area) button:first-child {
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px; }
+    border-top-left-radius: 0.75mm;
+    border-bottom-left-radius: 0.75mm; }
   box.linked:not(.vertical):not(.dialog-action-area) entry:last-child,
   box.linked:not(.vertical):not(.dialog-action-area) button:last-child,
   box.inline-toolbar:not(.vertical):not(.dialog-action-area) entry:last-child,
@@ -826,8 +830,8 @@ buttonbox.linked:not(.vertical):not(.dialog-action-area) button {
   buttonbox.linked:not(.vertical):not(.dialog-action-area) entry:last-child,
   buttonbox.linked:not(.vertical):not(.dialog-action-area) button:last-child {
     border-right-style: solid;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px; }
+    border-top-right-radius: 0.75mm;
+    border-bottom-right-radius: 0.75mm; }
   box.linked:not(.vertical):not(.dialog-action-area) entry:only-child,
   box.linked:not(.vertical):not(.dialog-action-area) button:only-child,
   box.inline-toolbar:not(.vertical):not(.dialog-action-area) entry:only-child,
@@ -835,7 +839,7 @@ buttonbox.linked:not(.vertical):not(.dialog-action-area) button {
   buttonbox.linked:not(.vertical):not(.dialog-action-area) entry:only-child,
   buttonbox.linked:not(.vertical):not(.dialog-action-area) button:only-child {
     border-style: solid;
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
   box.linked:not(.vertical):not(.dialog-action-area) entry:focus + entry,
   box.linked:not(.vertical):not(.dialog-action-area) button:focus + entry,
   box.inline-toolbar:not(.vertical):not(.dialog-action-area) entry:focus + entry,
@@ -886,8 +890,8 @@ buttonbox.linked.vertical:not(.dialog-action-area) button {
   box.inline-toolbar.vertical:not(.dialog-action-area) button:first-child,
   buttonbox.linked.vertical:not(.dialog-action-area) entry:first-child,
   buttonbox.linked.vertical:not(.dialog-action-area) button:first-child {
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px; }
+    border-top-left-radius: 0.75mm;
+    border-top-right-radius: 0.75mm; }
   box.linked.vertical:not(.dialog-action-area) entry:last-child,
   box.linked.vertical:not(.dialog-action-area) button:last-child,
   box.inline-toolbar.vertical:not(.dialog-action-area) entry:last-child,
@@ -895,8 +899,8 @@ buttonbox.linked.vertical:not(.dialog-action-area) button {
   buttonbox.linked.vertical:not(.dialog-action-area) entry:last-child,
   buttonbox.linked.vertical:not(.dialog-action-area) button:last-child {
     border-bottom-style: solid;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px; }
+    border-bottom-left-radius: 0.75mm;
+    border-bottom-right-radius: 0.75mm; }
   box.linked.vertical:not(.dialog-action-area) entry:only-child,
   box.linked.vertical:not(.dialog-action-area) button:only-child,
   box.inline-toolbar.vertical:not(.dialog-action-area) entry:only-child,
@@ -938,15 +942,15 @@ stackswitcher.linked button:not(.flat) {
   border-right-style: none;
   border-radius: 0; }
   stackswitcher.linked button:not(.flat):first-child {
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px; }
+    border-top-left-radius: 0.75mm;
+    border-bottom-left-radius: 0.75mm; }
   stackswitcher.linked button:not(.flat):last-child {
     border-right-style: solid;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px; }
+    border-top-right-radius: 0.75mm;
+    border-bottom-right-radius: 0.75mm; }
   stackswitcher.linked button:not(.flat):only-child {
     border-style: solid;
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
   stackswitcher.linked button:not(.flat):focus + entry {
     border-left-color: @theme_view_active_decoration_color_breeze; }
   stackswitcher.linked button:not(.flat):focus + button {
@@ -980,7 +984,7 @@ entry {
   padding-left: 8px;
   padding-right: 8px;
   border: 1px solid;
-  border-radius: 3px;
+  border-radius: 0.75mm;
   color: @theme_text_color_breeze;
   border-color: @borders_breeze;
   background-color: @theme_base_color_breeze;
@@ -1332,7 +1336,7 @@ radio {
     animation: none; }
 
 check {
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
   check:checked {
     -gtk-icon-source: -gtk-recolor(url("../assets/checkmark-symbolic.svg")); }
 
@@ -1382,7 +1386,7 @@ headerbar.selection-mode headerbar button.subtitle:visited {
   box-shadow: none; }
 
 colorswatch.top, colorswatch.bottom, colorswatch.left, colorswatch:first-child:not(.overlay):not(.top), colorswatch.right, colorswatch:last-child:not(.overlay):not(.bottom), colorswatch:only-child:not(.overlay), colorswatch.top > .overlay, colorswatch.bottom > .overlay, colorswatch:first-child:not(.top) > .overlay, colorswatch:last-child:not(.bottom) > .overlay, colorswatch:only-child > .overlay {
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
 
 colorswatch:hover, colorswatch:hover:selected,
 headerbar.selection-mode .subtitle:hover:link,
@@ -1422,7 +1426,7 @@ headerbar.selection-mode label:backdrop button.subtitle:visited {
   box-shadow: none; }
 
 GtkColorEditor colorswatch {
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
   GtkColorEditor colorswatch:hover {
     background-image: none;
     box-shadow: none; }
@@ -1583,9 +1587,18 @@ filechooser #pathbarbox {
   .dialog-action-box button {
     border-radius: 0px; }
     .dialog-action-box button:first-child {
-      border-radius: 3px 0 0 3px; }
+      border-radius: 0.75mm 0 0 0.75mm; }
     .dialog-action-box button:last-child {
-      border-radius: 0 3px 3px 0; }
+      border-radius: 0 0.75mm 0.75mm 0; }
+
+.normal-icons {
+  -gtk-icon-size: 16px; }
+
+.large-icons {
+  -gtk-icon-size: 32px; }
+
+window.aboutdialog image.large-icons {
+  -gtk-icon-size: 128px; }
 
 /***************
  * Header bars *
@@ -2333,7 +2346,7 @@ row.activatable:selected:backdrop {
  *********/
 accelerator {
   opacity: 0.5;
-  margin-left: 10px; }
+  margin-left: 2.5mm; }
 
 menubar,
 .menubar {
@@ -2347,8 +2360,8 @@ menubar,
     background-color: @theme_header_background_backdrop_breeze; }
   menubar > item,
   .menubar > item {
-    min-height: 18px;
-    padding: 5px 10px; }
+    min-height: 4.5mm;
+    padding: 1.25mm 2.5mm; }
     menubar > item:hover,
     .menubar > item:hover {
       background-color: @theme_button_decoration_focus_breeze;
@@ -2372,26 +2385,26 @@ popover, popover.background {
     padding: 4px;
     background-color: mix(@theme_bg_color_breeze,@theme_base_color_breeze,0.3);
     border: 1px solid @borders_breeze;
-    border-radius: 6px; }
+    border-radius: 0.75mm; }
   popover separator, popover.background separator {
     color: @borders_breeze;
-    margin: 3px 0; }
+    margin: 0.75mm 0; }
   popover modelbutton, popover.background modelbutton {
     text-shadow: none;
-    min-height: 18px;
-    min-width: 40px;
-    padding: 3px 8px;
+    min-height: 4.5mm;
+    min-width: 10mm;
+    padding: 0.75mm 2mm;
     border: 1px solid transparent; }
     popover modelbutton accelerator, popover.background modelbutton accelerator {
       color: alpha(currentColor,0.55); }
     popover modelbutton check:dir(ltr),
     popover modelbutton radio:dir(ltr), popover.background modelbutton check:dir(ltr),
     popover.background modelbutton radio:dir(ltr) {
-      margin-right: 6px; }
+      margin-right: 1.5mm; }
     popover modelbutton check:dir(rtl),
     popover modelbutton radio:dir(rtl), popover.background modelbutton check:dir(rtl),
     popover.background modelbutton radio:dir(rtl) {
-      margin-left: 6px; }
+      margin-left: 1.5mm; }
     popover modelbutton arrow.left, popover.background modelbutton arrow.left {
       -gtk-icon-source: -gtk-icontheme("go-previous-symbolic"); }
     popover modelbutton arrow.right, popover.background modelbutton arrow.right {
@@ -2399,7 +2412,7 @@ popover, popover.background {
     popover modelbutton:hover, popover.background modelbutton:hover {
       background-color: alpha(@theme_selected_bg_color_breeze,0.3);
       border: 1px solid @theme_button_decoration_focus_breeze;
-      border-radius: 3px; }
+      border-radius: 0.75mm; }
     popover modelbutton:disabled, popover.background modelbutton:disabled {
       color: @insensitive_fg_color_breeze; }
       popover modelbutton:disabled:backdrop, popover.background modelbutton:disabled:backdrop {
@@ -2409,7 +2422,7 @@ popover, popover.background {
       background-color: @theme_unfocused_bg_color_breeze; }
 
 GtkVolumeButton.button {
-  padding: 5px; }
+  padding: 1.25mm; }
 
 /********
  * Misc *
@@ -2988,13 +3001,13 @@ progressbar {
     min-width: 4px; }
   progressbar trough {
     border: 1px solid;
-    border-radius: 3px;
+    border-radius: 0.75mm;
     background: linear-gradient(alpha(@theme_button_foreground_normal_breeze,0.1),alpha(@theme_button_foreground_normal_breeze,0.1)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     border-color: alpha(@theme_button_foreground_normal_breeze,0.2); }
   progressbar progress {
     border: 1px solid;
     margin: -1px;
-    border-radius: 3px;
+    border-radius: 0.75mm;
     box-shadow: none;
     background: linear-gradient(alpha(@theme_button_decoration_hover_breeze,0.5),alpha(@theme_button_decoration_hover_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     border: 1px solid @theme_button_decoration_hover_breeze; }
@@ -3006,7 +3019,7 @@ progressbar {
 
 treeview.view.progressbar {
   border: 0px solid transparent;
-  border-radius: 3px;
+  border-radius: 0.75mm;
   background-color: @theme_selected_bg_color_breeze;
   color: @theme_selected_fg_color_breeze;
   background-image: none; }
@@ -3056,40 +3069,40 @@ levelbar block:not(.empty) {
   border: 1px solid @theme_button_decoration_hover_breeze;
   background: linear-gradient(alpha(@theme_button_decoration_hover_breeze,0.5),alpha(@theme_button_decoration_hover_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
   box-shadow: none;
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
   levelbar block:not(.empty):backdrop, levelbar label:backdrop selection:not(.empty), label:backdrop levelbar selection:not(.empty) {
     border: 1px solid @theme_unfocused_selected_bg_color_breeze;
     background: linear-gradient(alpha(@theme_unfocused_selected_bg_color_breeze,0.5),alpha(@theme_unfocused_selected_bg_color_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     box-shadow: none;
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
 
 levelbar block.low {
   border: 1px solid @warning_color_breeze;
   background: linear-gradient(alpha(@warning_color_breeze,0.5),alpha(@warning_color_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
   box-shadow: none;
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
   levelbar block.low:backdrop, levelbar label:backdrop selection.low, label:backdrop levelbar selection.low {
     border: 1px solid @warning_color_backdrop_breeze;
     background: linear-gradient(alpha(@warning_color_backdrop_breeze,0.5),alpha(@warning_color_backdrop_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     box-shadow: none;
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
 
 levelbar block.full, levelbar block.high {
   border: 1px solid @success_color_breeze;
   background: linear-gradient(alpha(@success_color_breeze,0.5),alpha(@success_color_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
   box-shadow: none;
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
   levelbar block.full:backdrop, levelbar label:backdrop selection.full, label:backdrop levelbar selection.full, levelbar block.high:backdrop, levelbar label:backdrop selection.high, label:backdrop levelbar selection.high {
     border: 1px solid @success_color_backdrop_breeze;
     background: linear-gradient(alpha(@success_color_backdrop_breeze,0.5),alpha(@success_color_backdrop_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     box-shadow: none;
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
 
 levelbar block.empty {
   border: 1px solid alpha(@theme_button_foreground_normal_breeze,0.2);
   background: linear-gradient(alpha(alpha(@theme_button_foreground_normal_breeze,0.2),0.5),alpha(alpha(@theme_button_foreground_normal_breeze,0.2),0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
   box-shadow: none;
-  border-radius: 3px; }
+  border-radius: 0.75mm; }
 
 /************
  * GtkScale *
@@ -3098,7 +3111,7 @@ scale {
   padding: 12px; }
   scale.fine-tune.trough {
     margin: 8px;
-    border-radius: 3px; }
+    border-radius: 0.75mm; }
   scale slider {
     min-width: 16px;
     min-height: 16px;
@@ -3139,7 +3152,7 @@ scale {
     min-width: 4px;
     min-height: 4px;
     border: 1px solid;
-    border-radius: 3px;
+    border-radius: 0.75mm;
     background: linear-gradient(alpha(@theme_button_foreground_normal_breeze,0.1),alpha(@theme_button_foreground_normal_breeze,0.1)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     border-color: alpha(@theme_button_foreground_normal_breeze,0.2); }
     scale trough:disabled, scale trough.vertical:disabled, scale label:disabled selection.vertical, label:disabled scale selection.vertical {
@@ -3147,7 +3160,7 @@ scale {
       border-color: alpha(@theme_button_foreground_normal_breeze,0.1); }
   scale highlight {
     margin: -1px;
-    border-radius: 3px;
+    border-radius: 0.75mm;
     background: linear-gradient(alpha(@theme_button_decoration_hover_breeze,0.5),alpha(@theme_button_decoration_hover_breeze,0.5)), linear-gradient(@theme_bg_color_breeze,@theme_bg_color_breeze);
     border: 1px solid @theme_button_decoration_hover_breeze; }
     scale highlight:disabled {
@@ -3587,7 +3600,7 @@ switch {
 /************
  * Toolbars *
  ************/
-searchbar,
+searchbar > revealer > box,
 .location-bar, .inline-toolbar, toolbar {
   padding: 4px;
   background-color: @theme_bg_color_breeze; }
@@ -3612,7 +3625,7 @@ toolbar {
   toolbar.osd {
     padding: 13px;
     border: none;
-    border-radius: 3px;
+    border-radius: 0.75mm;
     background-color: @theme_bg_color_breeze; }
     toolbar.osd:backdrop, label:backdrop selection.osd {
       border-color: @unfocused_borders_breeze;
@@ -3626,12 +3639,12 @@ toolbar {
   padding: 3px;
   border-radius: 0; }
 
-searchbar,
+searchbar > revealer > box,
 .location-bar {
   border-width: 0px 0px 1px 0px;
   padding: 3px; }
 
-.inline-toolbar, searchbar,
+.inline-toolbar, searchbar > revealer > box,
 .location-bar {
   border-style: solid;
   border-color: @borders_breeze;
@@ -3645,7 +3658,7 @@ tooltip {
   color: @tooltip_text_breeze;
   padding: 4px;
   /* not working */
-  border-radius: 3px;
+  border-radius: 0.75mm;
   box-shadow: none;
   text-shadow: none;
   border: 1px solid @tooltip_border_breeze; }
@@ -3781,7 +3794,7 @@ window {
   .maximized dialog, .fullscreen dialog, .tiled dialog, .maximized window, .fullscreen window, .tiled window {
     border-radius: 0; }
   .popup dialog, .popup window {
-    border-radius: 3px;
+    border-radius: 0.75mm;
     box-shadow: 0px 3px 10px -4px rgba(0, 0, 0, 0.27), 0px 5px 8px -4px rgba(0, 0, 0, 0.17); }
   .ssd dialog, .ssd window {
     box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.1); }
@@ -3814,131 +3827,103 @@ window.solid-csd paned.titlebar headerbar {
 headerbar.titlebar {
   min-height: 46px; }
 
-headerbar.default-decoration button.titlebutton,
-.titlebar.default-decoration button.titlebutton {
-  padding: 1px;
+headerbar windowcontrols button,
+.titlebar windowcontrols button {
   min-height: 18px;
   min-width: 18px;
-  margin: 0; }
-
-headerbar button.titlebutton,
-.titlebar button.titlebutton {
-  padding: 1px; }
-  headerbar button.titlebutton.close,
-  .titlebar button.titlebutton.close {
-    padding: 1px;
+  padding: 0;
+  margin-top: -14px;
+  padding-top: 28px;
+  margin-bottom: -14px;
+  padding-bottom: 28px; }
+  headerbar windowcontrols button:dir(ltr),
+  .titlebar windowcontrols button:dir(ltr) {
+    margin-right: -7px;
+    padding-right: 14px; }
+  headerbar windowcontrols button:dir(rtl),
+  .titlebar windowcontrols button:dir(rtl) {
+    margin-left: -7px;
+    padding-left: 14px; }
+  headerbar windowcontrols button image,
+  .titlebar windowcontrols button image {
+    color: transparent; }
+  headerbar windowcontrols button.close, headerbar windowcontrols button.close:hover, headerbar windowcontrols button.close:active, headerbar windowcontrols button.close:backdrop, headerbar windowcontrols label:backdrop selection.close, label:backdrop headerbar windowcontrols selection.close, headerbar windowcontrols button.maximize, headerbar windowcontrols button.maximize:hover, headerbar windowcontrols button.maximize:active, headerbar windowcontrols button.maximize:backdrop, headerbar windowcontrols label:backdrop selection.maximize, label:backdrop headerbar windowcontrols selection.maximize, headerbar windowcontrols button.minimize, headerbar windowcontrols button.minimize:hover, headerbar windowcontrols button.minimize:active, headerbar windowcontrols button.minimize:backdrop, headerbar windowcontrols label:backdrop selection.minimize, label:backdrop headerbar windowcontrols selection.minimize,
+  .titlebar windowcontrols button.close,
+  .titlebar windowcontrols button.close:hover,
+  .titlebar windowcontrols button.close:active,
+  .titlebar windowcontrols button.close:backdrop,
+  .titlebar windowcontrols label:backdrop selection.close,
+  label:backdrop .titlebar windowcontrols selection.close,
+  .titlebar windowcontrols button.maximize,
+  .titlebar windowcontrols button.maximize:hover,
+  .titlebar windowcontrols button.maximize:active,
+  .titlebar windowcontrols button.maximize:backdrop,
+  .titlebar windowcontrols label:backdrop selection.maximize,
+  label:backdrop .titlebar windowcontrols selection.maximize,
+  .titlebar windowcontrols button.minimize,
+  .titlebar windowcontrols button.minimize:hover,
+  .titlebar windowcontrols button.minimize:active,
+  .titlebar windowcontrols button.minimize:backdrop,
+  .titlebar windowcontrols label:backdrop selection.minimize,
+  label:backdrop .titlebar windowcontrols selection.minimize {
+    border-color: transparent;
     border-image: none;
     box-shadow: none;
+    background-color: transparent;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 18px 18px;
+    background-size: 18px 18px; }
+  headerbar windowcontrols button.close,
+  .titlebar windowcontrols button.close {
     background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg"), color @theme_text_color_breeze);
     -gtk-icon-source: none; }
-    headerbar button.titlebutton.close image,
-    .titlebar button.titlebutton.close image {
-      color: transparent; }
-  headerbar button.titlebutton.close:hover,
-  .titlebar button.titlebutton.close:hover {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.close:hover,
+  .titlebar windowcontrols button.close:hover {
     background-image: -gtk-recolor(url("../assets/breeze-close-hover-symbolic.svg")); }
-  headerbar button.titlebutton.close:active,
-  .titlebar button.titlebutton.close:active {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.close:active,
+  .titlebar windowcontrols button.close:active {
     background-image: -gtk-recolor(url("../assets/breeze-close-active-symbolic.svg")); }
-  headerbar button.titlebutton.close:backdrop, headerbar label:backdrop selection.close, label:backdrop headerbar selection.close,
-  .titlebar button.titlebutton.close:backdrop,
-  .titlebar label:backdrop selection.close,
-  label:backdrop .titlebar selection.close {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.close:backdrop, headerbar windowcontrols label:backdrop selection.close, label:backdrop headerbar windowcontrols selection.close,
+  .titlebar windowcontrols button.close:backdrop,
+  .titlebar windowcontrols label:backdrop selection.close,
+  label:backdrop .titlebar windowcontrols selection.close {
     background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg")); }
-  headerbar button.titlebutton.maximize,
-  .titlebar button.titlebutton.maximize {
-    padding: 1px;
-    border-image: none;
-    box-shadow: none;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
+  headerbar windowcontrols button.maximize,
+  .titlebar windowcontrols button.maximize {
     background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
-    headerbar button.titlebutton.maximize image,
-    .titlebar button.titlebutton.maximize image {
-      color: transparent; }
-  headerbar button.titlebutton.maximize:hover,
-  .titlebar button.titlebutton.maximize:hover {
-    border-color: transparent;
-    background-color: transparent;
-    background-size: contain;
+  headerbar windowcontrols button.maximize:hover,
+  .titlebar windowcontrols button.maximize:hover {
     background-image: -gtk-recolor(url("../assets/breeze-maximize-hover-symbolic.svg")); }
-  headerbar button.titlebutton.maximize:active,
-  .titlebar button.titlebutton.maximize:active {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.maximize:active,
+  .titlebar windowcontrols button.maximize:active {
     background-image: -gtk-recolor(url("../assets/breeze-maximize-active-symbolic.svg")); }
-  headerbar button.titlebutton.maximize:backdrop, headerbar label:backdrop selection.maximize, label:backdrop headerbar selection.maximize,
-  .titlebar button.titlebutton.maximize:backdrop,
-  .titlebar label:backdrop selection.maximize,
-  label:backdrop .titlebar selection.maximize {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.maximize:backdrop, headerbar windowcontrols label:backdrop selection.maximize, label:backdrop headerbar windowcontrols selection.maximize,
+  .titlebar windowcontrols button.maximize:backdrop,
+  .titlebar windowcontrols label:backdrop selection.maximize,
+  label:backdrop .titlebar windowcontrols selection.maximize {
     background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
-  headerbar button.titlebutton.minimize,
-  .titlebar button.titlebutton.minimize {
-    padding: 1px;
-    border-image: none;
-    box-shadow: none;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
+  headerbar windowcontrols button.minimize,
+  .titlebar windowcontrols button.minimize {
     background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
-    headerbar button.titlebutton.minimize image,
-    .titlebar button.titlebutton.minimize image {
-      color: transparent; }
-  headerbar button.titlebutton.minimize:hover,
-  .titlebar button.titlebutton.minimize:hover {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.minimize:hover,
+  .titlebar windowcontrols button.minimize:hover {
     background-image: -gtk-recolor(url("../assets/breeze-minimize-hover-symbolic.svg")); }
-  headerbar button.titlebutton.minimize:active,
-  .titlebar button.titlebutton.minimize:active {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.minimize:active,
+  .titlebar windowcontrols button.minimize:active {
     background-image: -gtk-recolor(url("../assets/breeze-minimize-active-symbolic.svg")); }
-  headerbar button.titlebutton.minimize:backdrop, headerbar label:backdrop selection.minimize, label:backdrop headerbar selection.minimize,
-  .titlebar button.titlebutton.minimize:backdrop,
-  .titlebar label:backdrop selection.minimize,
-  label:backdrop .titlebar selection.minimize {
-    border-color: transparent;
-    background-color: transparent;
+  headerbar windowcontrols button.minimize:backdrop, headerbar windowcontrols label:backdrop selection.minimize, label:backdrop headerbar windowcontrols selection.minimize,
+  .titlebar windowcontrols button.minimize:backdrop,
+  .titlebar windowcontrols label:backdrop selection.minimize,
+  label:backdrop .titlebar windowcontrols selection.minimize {
     background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
-
-.maximized headerbar button.titlebutton.maximize, .maximized .titlebar button.titlebutton.maximize {
-  padding: 1px;
-  border-image: none;
-  box-shadow: none;
-  background-position: center;
-  background-size: 18px 18px;
-  background-repeat: no-repeat;
-  background-image: -gtk-recolor(url("../assets/breeze-maximized-symbolic.svg")); }
-  .maximized headerbar button.titlebutton.maximize image, .maximized .titlebar button.titlebutton.maximize image {
-    color: transparent; }
-
-.maximized headerbar button.titlebutton.maximize:hover, .maximized .titlebar button.titlebutton.maximize:hover {
-  border-color: transparent;
-  background-color: transparent;
-  background-image: -gtk-recolor(url("../assets/breeze-maximized-hover-symbolic.svg")); }
-
-.maximized headerbar button.titlebutton.maximize:active, .maximized .titlebar button.titlebutton.maximize:active {
-  border-color: transparent;
-  background-color: transparent;
-  background-image: -gtk-recolor(url("../assets/breeze-maximized-active-symbolic.svg")); }
-
-.maximized headerbar button.titlebutton.maximize:backdrop, .maximized headerbar label:backdrop selection.maximize, label:backdrop .maximized headerbar selection.maximize, .maximized .titlebar button.titlebutton.maximize:backdrop, .maximized .titlebar label:backdrop selection.maximize, label:backdrop .maximized .titlebar selection.maximize {
-  border-color: transparent;
-  background-color: transparent;
-  background-image: -gtk-recolor(url("../assets/breeze-maximized-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize, .maximized .titlebar windowcontrols button.maximize {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize:hover, .maximized .titlebar windowcontrols button.maximize:hover {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-hover-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize:active, .maximized .titlebar windowcontrols button.maximize:active {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-active-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize:backdrop, .maximized headerbar windowcontrols label:backdrop selection.maximize, label:backdrop .maximized headerbar windowcontrols selection.maximize, .maximized .titlebar windowcontrols button.maximize:backdrop, .maximized .titlebar windowcontrols label:backdrop selection.maximize, label:backdrop .maximized .titlebar windowcontrols selection.maximize {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-symbolic.svg")); }
 
 headerbar.selection-mode button.titlebutton,
 .titlebar.selection-mode button.titlebutton {
@@ -4016,7 +4001,7 @@ assistant .sidebar label.highlight {
   background-color: @tooltip_background_breeze;
   color: @tooltip_text_breeze;
   border: 1px solid @tooltip_border_breeze;
-  border-radius: 3px;
+  border-radius: 0.75mm;
   margin: 3px; }
 
 .large-title {
