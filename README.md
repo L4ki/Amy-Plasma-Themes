@@ -165,3 +165,21 @@ Plasma Themes
 -------------
 
 Added icon: krfb.svg
+
+Changelog: 20.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  tab-top-active.png
+
+Icons
+-----
+
+Added new icons: apps 32
+
+Plasma Themes
+-------------
+
+Update widgets: panel-background.svg
