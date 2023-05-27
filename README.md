@@ -183,3 +183,22 @@ Plasma Themes
 -------------
 
 Update widgets: panel-background.svg
+
+
+Changelog: 27.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  tab-bottom-active.png
+
+Icons
+-----
+
+Added new icons: apps 32,48
+
+Plasma Themes
+-------------
+
+Added icon: corectrl.svg
