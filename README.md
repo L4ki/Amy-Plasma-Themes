@@ -221,3 +221,21 @@ Plasma Themes
 -------------
 
 Update widget: tabbar.svg
+
+Changelog: 10.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: slider-horiz.png, slider-vert.png
+
+Icons
+-----
+
+Added new icons: apps 32,48
+
+Plasma Themes
+-------------
+
+Added icon: lutris.svg
