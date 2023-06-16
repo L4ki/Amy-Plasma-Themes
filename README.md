@@ -251,7 +251,7 @@ Update: line.png
 Icons
 -----
 
-Added new icons: apps 32,48
+Added new icons: apps 32, 48
 
 Plasma Themes
 -------------
