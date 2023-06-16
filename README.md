@@ -239,3 +239,21 @@ Plasma Themes
 -------------
 
 Added icon: lutris.svg
+
+Changelog: 17.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: line.png
+
+Icons
+-----
+
+Added new icons: apps 32,48
+
+Plasma Themes
+-------------
+
+Update: metadata.desktop
