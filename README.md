@@ -243,6 +243,11 @@ Added icon: lutris.svg
 Changelog: 17.06.2023.
 ----------------------
 
+Aurorae Themes
+--------------
+
+Update: Auroraerc
+
 GTK Theme
 ----------
 
