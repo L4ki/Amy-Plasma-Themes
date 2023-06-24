@@ -262,3 +262,21 @@ Plasma Themes
 -------------
 
 Update: metadata.desktop
+
+Changelog: 24.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: menuitem.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Update: action-overlays.svg
