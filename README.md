@@ -280,3 +280,21 @@ Plasma Themes
 -------------
 
 Update: action-overlays.svg
+
+Changelog: 01.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+ update: gtk-3.0, 4.0
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: offline.svg
