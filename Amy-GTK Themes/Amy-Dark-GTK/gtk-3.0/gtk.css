@@ -4056,159 +4056,135 @@ window .titlebar.default-decoration button.titlebutton {
   min-width: 18px;
   margin: 0; }
 
-dialog headerbar button.titlebutton,
-dialog .titlebar button.titlebutton,
-window headerbar button.titlebutton,
-window .titlebar button.titlebutton {
-  margin-top: -12px;
-  padding-top: 24px;
-  margin-bottom: -12px;
-  padding-bottom: 24px; }
-  dialog headerbar button.titlebutton:dir(ltr),
-  dialog .titlebar button.titlebutton:dir(ltr),
-  window headerbar button.titlebutton:dir(ltr),
-  window .titlebar button.titlebutton:dir(ltr) {
-    margin-right: -6px;
-    padding-right: 12px; }
-    dialog headerbar button.titlebutton:dir(ltr).maximize, dialog headerbar button.titlebutton:dir(ltr).minimize,
-    dialog .titlebar button.titlebutton:dir(ltr).maximize,
-    dialog .titlebar button.titlebutton:dir(ltr).minimize,
-    window headerbar button.titlebutton:dir(ltr).maximize,
-    window headerbar button.titlebutton:dir(ltr).minimize,
-    window .titlebar button.titlebutton:dir(ltr).maximize,
-    window .titlebar button.titlebutton:dir(ltr).minimize {
-      margin-right: -12px; }
-  dialog headerbar button.titlebutton:dir(rtl),
-  dialog .titlebar button.titlebutton:dir(rtl),
-  window headerbar button.titlebutton:dir(rtl),
-  window .titlebar button.titlebutton:dir(rtl) {
-    margin-left: -6px;
-    padding-left: 12px; }
-    dialog headerbar button.titlebutton:dir(rtl).maximize, dialog headerbar button.titlebutton:dir(rtl).minimize,
-    dialog .titlebar button.titlebutton:dir(rtl).maximize,
-    dialog .titlebar button.titlebutton:dir(rtl).minimize,
-    window headerbar button.titlebutton:dir(rtl).maximize,
-    window headerbar button.titlebutton:dir(rtl).minimize,
-    window .titlebar button.titlebutton:dir(rtl).maximize,
-    window .titlebar button.titlebutton:dir(rtl).minimize {
-      margin-left: -12px; }
-  dialog headerbar button.titlebutton image,
-  dialog .titlebar button.titlebutton image,
-  window headerbar button.titlebutton image,
-  window .titlebar button.titlebutton image {
-    color: transparent; }
-  dialog headerbar button.titlebutton.close,
-  dialog .titlebar button.titlebutton.close,
-  window headerbar button.titlebutton.close,
-  window .titlebar button.titlebutton.close {
-    border-image: none;
-    box-shadow: none;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
-    background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg"), color @theme_text_color_breeze);
-    -gtk-icon-source: none; }
-  dialog headerbar button.titlebutton.close:hover,
-  dialog .titlebar button.titlebutton.close:hover,
-  window headerbar button.titlebutton.close:hover,
-  window .titlebar button.titlebutton.close:hover {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-close-hover-symbolic.svg")); }
-  dialog headerbar button.titlebutton.close:active,
-  dialog .titlebar button.titlebutton.close:active,
-  window headerbar button.titlebutton.close:active,
-  window .titlebar button.titlebutton.close:active {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-close-active-symbolic.svg")); }
-  dialog headerbar button.titlebutton.close:backdrop, dialog headerbar label:backdrop selection.close, label:backdrop dialog headerbar selection.close,
-  dialog .titlebar button.titlebutton.close:backdrop,
-  dialog .titlebar label:backdrop selection.close,
-  label:backdrop dialog .titlebar selection.close,
-  window headerbar button.titlebutton.close:backdrop,
-  window headerbar label:backdrop selection.close,
-  label:backdrop window headerbar selection.close,
-  window .titlebar button.titlebutton.close:backdrop,
-  window .titlebar label:backdrop selection.close,
-  label:backdrop window .titlebar selection.close {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg")); }
-  dialog headerbar button.titlebutton.maximize,
-  dialog .titlebar button.titlebutton.maximize,
-  window headerbar button.titlebutton.maximize,
-  window .titlebar button.titlebutton.maximize {
-    border-image: none;
-    box-shadow: none;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
-    background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
-  dialog headerbar button.titlebutton.maximize:hover,
-  dialog .titlebar button.titlebutton.maximize:hover,
-  window headerbar button.titlebutton.maximize:hover,
-  window .titlebar button.titlebutton.maximize:hover {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-maximize-hover-symbolic.svg")); }
-  dialog headerbar button.titlebutton.maximize:active,
-  dialog .titlebar button.titlebutton.maximize:active,
-  window headerbar button.titlebutton.maximize:active,
-  window .titlebar button.titlebutton.maximize:active {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-maximize-active-symbolic.svg")); }
-  dialog headerbar button.titlebutton.maximize:backdrop, dialog headerbar label:backdrop selection.maximize, label:backdrop dialog headerbar selection.maximize,
-  dialog .titlebar button.titlebutton.maximize:backdrop,
-  dialog .titlebar label:backdrop selection.maximize,
-  label:backdrop dialog .titlebar selection.maximize,
-  window headerbar button.titlebutton.maximize:backdrop,
-  window headerbar label:backdrop selection.maximize,
-  label:backdrop window headerbar selection.maximize,
-  window .titlebar button.titlebutton.maximize:backdrop,
-  window .titlebar label:backdrop selection.maximize,
-  label:backdrop window .titlebar selection.maximize {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
-  dialog headerbar button.titlebutton.minimize,
-  dialog .titlebar button.titlebutton.minimize,
-  window headerbar button.titlebutton.minimize,
-  window .titlebar button.titlebutton.minimize {
-    border-image: none;
-    box-shadow: none;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
-    background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
-  dialog headerbar button.titlebutton.minimize:hover,
-  dialog .titlebar button.titlebutton.minimize:hover,
-  window headerbar button.titlebutton.minimize:hover,
-  window .titlebar button.titlebutton.minimize:hover {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-minimize-hover-symbolic.svg")); }
-  dialog headerbar button.titlebutton.minimize:active,
-  dialog .titlebar button.titlebutton.minimize:active,
-  window headerbar button.titlebutton.minimize:active,
-  window .titlebar button.titlebutton.minimize:active {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-minimize-active-symbolic.svg")); }
-  dialog headerbar button.titlebutton.minimize:backdrop, dialog headerbar label:backdrop selection.minimize, label:backdrop dialog headerbar selection.minimize,
-  dialog .titlebar button.titlebutton.minimize:backdrop,
-  dialog .titlebar label:backdrop selection.minimize,
-  label:backdrop dialog .titlebar selection.minimize,
-  window headerbar button.titlebutton.minimize:backdrop,
-  window headerbar label:backdrop selection.minimize,
-  label:backdrop window headerbar selection.minimize,
-  window .titlebar button.titlebutton.minimize:backdrop,
-  window .titlebar label:backdrop selection.minimize,
-  label:backdrop window .titlebar selection.minimize {
-    border-color: transparent;
-    background-color: transparent;
-    background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
+dialog headerbar button.titlebutton image,
+dialog .titlebar button.titlebutton image,
+window headerbar button.titlebutton image,
+window .titlebar button.titlebutton image {
+  color: transparent; }
+
+dialog headerbar button.titlebutton.close,
+dialog .titlebar button.titlebutton.close,
+window headerbar button.titlebutton.close,
+window .titlebar button.titlebutton.close {
+  border-image: none;
+  box-shadow: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg"), color @theme_text_color_breeze);
+  -gtk-icon-source: none; }
+
+dialog headerbar button.titlebutton.close:hover,
+dialog .titlebar button.titlebutton.close:hover,
+window headerbar button.titlebutton.close:hover,
+window .titlebar button.titlebutton.close:hover {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-close-hover-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.close:active,
+dialog .titlebar button.titlebutton.close:active,
+window headerbar button.titlebutton.close:active,
+window .titlebar button.titlebutton.close:active {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-close-active-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.close:backdrop, dialog headerbar label:backdrop selection.close, label:backdrop dialog headerbar selection.close,
+dialog .titlebar button.titlebutton.close:backdrop,
+dialog .titlebar label:backdrop selection.close,
+label:backdrop dialog .titlebar selection.close,
+window headerbar button.titlebutton.close:backdrop,
+window headerbar label:backdrop selection.close,
+label:backdrop window headerbar selection.close,
+window .titlebar button.titlebutton.close:backdrop,
+window .titlebar label:backdrop selection.close,
+label:backdrop window .titlebar selection.close {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.maximize,
+dialog .titlebar button.titlebutton.maximize,
+window headerbar button.titlebutton.maximize,
+window .titlebar button.titlebutton.maximize {
+  border-image: none;
+  box-shadow: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.maximize:hover,
+dialog .titlebar button.titlebutton.maximize:hover,
+window headerbar button.titlebutton.maximize:hover,
+window .titlebar button.titlebutton.maximize:hover {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-maximize-hover-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.maximize:active,
+dialog .titlebar button.titlebutton.maximize:active,
+window headerbar button.titlebutton.maximize:active,
+window .titlebar button.titlebutton.maximize:active {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-maximize-active-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.maximize:backdrop, dialog headerbar label:backdrop selection.maximize, label:backdrop dialog headerbar selection.maximize,
+dialog .titlebar button.titlebutton.maximize:backdrop,
+dialog .titlebar label:backdrop selection.maximize,
+label:backdrop dialog .titlebar selection.maximize,
+window headerbar button.titlebutton.maximize:backdrop,
+window headerbar label:backdrop selection.maximize,
+label:backdrop window headerbar selection.maximize,
+window .titlebar button.titlebutton.maximize:backdrop,
+window .titlebar label:backdrop selection.maximize,
+label:backdrop window .titlebar selection.maximize {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.minimize,
+dialog .titlebar button.titlebutton.minimize,
+window headerbar button.titlebutton.minimize,
+window .titlebar button.titlebutton.minimize {
+  border-image: none;
+  box-shadow: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.minimize:hover,
+dialog .titlebar button.titlebutton.minimize:hover,
+window headerbar button.titlebutton.minimize:hover,
+window .titlebar button.titlebutton.minimize:hover {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-minimize-hover-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.minimize:active,
+dialog .titlebar button.titlebutton.minimize:active,
+window headerbar button.titlebutton.minimize:active,
+window .titlebar button.titlebutton.minimize:active {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-minimize-active-symbolic.svg")); }
+
+dialog headerbar button.titlebutton.minimize:backdrop, dialog headerbar label:backdrop selection.minimize, label:backdrop dialog headerbar selection.minimize,
+dialog .titlebar button.titlebutton.minimize:backdrop,
+dialog .titlebar label:backdrop selection.minimize,
+label:backdrop dialog .titlebar selection.minimize,
+window headerbar button.titlebutton.minimize:backdrop,
+window headerbar label:backdrop selection.minimize,
+label:backdrop window headerbar selection.minimize,
+window .titlebar button.titlebutton.minimize:backdrop,
+window .titlebar label:backdrop selection.minimize,
+label:backdrop window .titlebar selection.minimize {
+  border-color: transparent;
+  background-color: transparent;
+  background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
 
 .maximized dialog headerbar button.titlebutton.maximize, .maximized dialog .titlebar button.titlebutton.maximize, .maximized window headerbar button.titlebutton.maximize, .maximized window .titlebar button.titlebutton.maximize {
   border-image: none;
