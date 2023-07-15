@@ -7,7 +7,7 @@
    version="1.1"
    id="svg27"
    sodipodi:docname="checkmark-symbolic.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -16,18 +16,18 @@
      id="defs7" />
   <sodipodi:namedview
      id="namedview5"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="126.25"
-     inkscape:cx="6.1148515"
-     inkscape:cy="7.3227723"
-     inkscape:window-width="2560"
-     inkscape:window-height="1371"
+     inkscape:zoom="31.5625"
+     inkscape:cx="5.9722772"
+     inkscape:cy="8.9029703"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -35,7 +35,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#505050"
+     inkscape:deskcolor="#cccccc"
      shape-rendering="crispEdges" />
   <g
      id="g1325">
