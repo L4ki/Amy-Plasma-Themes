@@ -316,3 +316,22 @@ Plasma Themes
 -------------
 
 Update widget: translucentbackground.svg
+
+Changelog: 15.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+ update: checkmark-symbolic
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: ring.svg
+
