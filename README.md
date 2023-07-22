@@ -335,3 +335,22 @@ Plasma Themes
 
 Added icon: ring.svg
 
+
+Changelog: 22.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: bullet-symbolic.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
+Plasma Themes
+-------------
+
+Added widget: switch.svg
+
