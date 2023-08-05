@@ -372,3 +372,20 @@ Plasma Themes
 
 Added icon: sirikali.svg
 
+Changelog: 05.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-2.0
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: skype.svg
