@@ -389,3 +389,21 @@ Plasma Themes
 -------------
 
 Added icon: skype.svg
+
+Changelog: 12.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: strawberry.svg
