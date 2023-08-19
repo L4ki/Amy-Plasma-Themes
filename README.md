@@ -407,3 +407,21 @@ Plasma Themes
 -------------
 
 Added icon: strawberry.svg
+
+Changelog: 19.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: hacks-dark.rc
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: veracrypt.svg
