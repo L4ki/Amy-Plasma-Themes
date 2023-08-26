@@ -2,7 +2,7 @@ gtk-color-scheme = "base_color: #1e2131"
 gtk-color-scheme = "text_color: #bac8df"
 gtk-color-scheme = "bg_color: #222638"
 gtk-color-scheme = "fg_color: #bac8df"
-gtk-color-scheme = "tooltip_bg_color: #25293d"
+gtk-color-scheme = "tooltip_bg_color: #2c3149"
 gtk-color-scheme = "tooltip_fg_color: #bac8df"
 gtk-color-scheme = "selected_bg_color: #4e70ac"
 gtk-color-scheme = "selected_fg_color: #bac8df"
@@ -17,7 +17,17 @@ gtk-icon-sizes = "gtk-button=14,14" # This makes button icons smaller.
 gtk-auto-mnemonics =  1
 gtk-primary-button-warps-slider = 1
 
+# And hand over the control to the theme files
 include "main.rc"
 include "apps.rc"
+include "hacks.rc"
+include "hacks-dark.rc"
 
+# App stylings
+include "apps/chrome.rc"
+include "apps/gimp.rc"
+include "apps/libreoffice.rc"
+include "apps/terminal.rc"
+include "apps/thunar.rc"
+include "apps/xfce.rc"
 
