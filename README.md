@@ -443,3 +443,26 @@ Plasma Themes
 -------------
 
 Added icon: image.svg
+
+Changelog: 02.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: border.png
+
+Icons
+-----
+
+Added new icons: apps 32
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: line.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added: wind-arrows.svg
