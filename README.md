@@ -466,3 +466,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added: wind-arrows.svg
+
+Changelog: 10.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: combo-entry-button-active.png
+
+Icons
+-----
+
+Added new icons: apps 32
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: bar_meter_horizontal.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: quota.svg
