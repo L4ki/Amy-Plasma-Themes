@@ -489,3 +489,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added icon: quota.svg
+
+Changelog: 17.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: notebook.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: action-overlays.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: ime.svg
