@@ -512,3 +512,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added icon: ime.svg
+
+Changelog: 24.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: focus-line.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: configuration-icons.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: fcitx.svg
