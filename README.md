@@ -535,3 +535,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added icon: fcitx.svg
+
+Changelog: 01.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: busywidget.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Update widget: busywidget.svg
