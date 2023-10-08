@@ -558,3 +558,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Update widget: busywidget.svg
+
+Changelog: 08.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Added icon: transform.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Update widget: lineedit.svg
