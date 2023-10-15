@@ -581,3 +581,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Update widget: lineedit.svg
+
+Changelog: 15.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: handle-v.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: actionbutton.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: transform.svg
