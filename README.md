@@ -604,3 +604,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added icon: transform.svg
+
+Changelog: 22.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: entry.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: line.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Update widget: line.svg
