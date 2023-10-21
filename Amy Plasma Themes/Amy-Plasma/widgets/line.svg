@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="47"
-   height="45"
-   id="svg2"
+   width="21"
+   height="16.000004"
+   id="svg"
    sodipodi:version="0.32"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    version="1.0"
    sodipodi:docname="line.svg"
-   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="arrow-up.png"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,7 +18,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     id="base"
+     id="l4k1"
      pagecolor="#000000"
      bordercolor="#1401ff"
      borderopacity="1"
@@ -30,9 +27,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.025985"
-     inkscape:cx="35.9237"
-     inkscape:cy="36.345679"
+     inkscape:zoom="23.560256"
+     inkscape:cx="11.629755"
+     inkscape:cy="9.8683138"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -50,24 +47,32 @@
      fit-margin-bottom="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
+     inkscape:document-rotation="0"
+     showguides="false"
      inkscape:pagecheckerboard="true"
-     inkscape:lockguides="false"
      inkscape:deskcolor="#000000">
     <inkscape:grid
-       type="xygrid"
-       id="grid3101"
+       id="grid1"
+       units="px"
        originx="0"
        originy="0"
-       spacingy="1"
        spacingx="1"
-       units="px"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
        visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Highlight { color:#556fa6; }&#10;.ColorScheme-Text { color:#31363b; }&#10;.ColorScheme-Background { color:#565d8a; }&#10;.ColorScheme-ViewText { color:#31363b; }&#10;.ColorScheme-ViewBackground { color:#fcfcfc; }&#10;.ColorScheme-ViewHover { color:#3daee9; }&#10;.ColorScheme-ViewFocus { color:#3daee9; }&#10;.ColorScheme-ButtonText { color:#31363b; }&#10;.ColorScheme-ButtonBackground { color:#eff0f1; }&#10;.ColorScheme-ButtonHover { color:#3daee9; }&#10;.ColorScheme-ButtonFocus { color:#3daee9; }&#10;</style>
+       type="text/css">      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background{&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }</style>
   </defs>
   <metadata
      id="metadata7">
@@ -84,38 +89,11 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-28,-14)">
-    <g
-       id="horizontal-line"
-       inkscape:label="#g3769"
-       transform="matrix(0.3960637,0,0,1.0000003,40.864102,-4.3290195)">
-      <path
-         class="ColorScheme-Text"
-         inkscape:connector-curvature="0"
-         id="path3767"
-         d="M 76.088513,56.529002 H 35.690972 v 1 h 40.397541 z"
-         style="color:#31363b;opacity:0.01;fill:#c0c8d8;fill-opacity:0.2;stroke:none;stroke-width:0.580212"
-         inkscape:label="#path2992" />
-      <path
-         class="ColorScheme-Background"
-         inkscape:connector-curvature="0"
-         id="path929"
-         d="m 75.690972,58.329002 h -40 v 0.2 h 40 z"
-         style="color:#eff0f1;opacity:0.01;fill:#eff0f1;fill-opacity:0.01;stroke-width:0.730292"
-         inkscape:label="#path2992" />
-      <path
-         class="ColorScheme-Text"
-         inkscape:connector-curvature="0"
-         id="path3787"
-         d="M 75.71073,58.329002 H 36.069707 c -0.167946,0 -0.167946,0.1 10e-7,0.1 h 39.640078 c 0.227422,0 0.228367,-0.1 9.4e-4,-0.1 z"
-         style="color:#31363b;opacity:1;fill:#8191b1;fill-opacity:0.2;stroke-width:0.51896"
-         inkscape:label="#path2992"
-         sodipodi:nodetypes="cccccc" />
-    </g>
+     transform="translate(-39,-14)">
     <g
        id="vertical-line"
        inkscape:label="#g3763"
-       transform="matrix(0.99999915,0,0,0.39999999,2.0312806,20.5625)">
+       transform="matrix(0.99999915,0,0,0.39999999,6.031278,8.5625003)">
       <path
          style="color:#31363b;opacity:0.01;fill:currentColor;fill-opacity:0.3;stroke:none"
          d="m 32.96875,13.59375 v 40 h 3 v -40 z"
@@ -128,9 +106,28 @@
          class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path2998"
-         d="m 34.093749,13.59375 v 40 h 0.562501 v -40 z"
-         style="color:#31363b;opacity:0.2;fill:#1e2431;fill-opacity:1;stroke-width:0.375"
+         d="m 34.093749,13.59375 v 40 h 0.125 v -40 z"
+         style="opacity:1;fill:#4e70ac;fill-opacity:0.30000001;stroke-width:0.176777"
          sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="horizontal-line"
+       inkscape:label="#g3769"
+       transform="matrix(0.4,0,0,1.0000004,29.723611,-28.52902)">
+      <path
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         id="path3767"
+         d="m 75.690972,55.529 h -40 v 3 h 40 z"
+         style="color:#31363b;opacity:0.01;fill:currentColor;fill-opacity:0.3;stroke:none"
+         inkscape:label="#path2992" />
+      <path
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         id="path3787"
+         d="m 75.690972,57.528997 h -40 v -0.124998 h 40 z"
+         style="opacity:1;fill:#4e70ac;fill-opacity:0.89999998;stroke-width:0.577346"
+         inkscape:label="#path2992" />
     </g>
   </g>
 </svg>
