@@ -651,7 +651,7 @@ Plasma Theme "Amy-Light-Plasma"
 
 Update widget: panel-background.svg
 
-Changelog: 0511.2023.
+Changelog: 05.11.2023.
 ----------------------
 
 GTK Theme
@@ -673,3 +673,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Update widget: tasks.svg
+
+Changelog: 12.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: up-background.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Added icon: widget.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: widget.svg
