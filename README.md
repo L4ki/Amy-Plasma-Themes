@@ -696,3 +696,26 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added icon: widget.svg
+
+Changelog: 19.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: line-h.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Added icon: search.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: search.svg
