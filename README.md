@@ -742,3 +742,31 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Update widget: button.svg
+
+Changelog: 03.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: styles
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: clock.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Update widget: clock.svg
+
+Aurorae Themes
+--------------
+
+Updade: alldesktops.svg
