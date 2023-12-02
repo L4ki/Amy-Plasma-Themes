@@ -4,7 +4,7 @@
    width="21.999998"
    height="21.999998"
    id="svg2"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    sodipodi:docname="alldesktops.svg"
    viewBox="0 0 20.625 20.624998"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -50,12 +50,12 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="994"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="6.363961"
-     inkscape:cx="66.625172"
-     inkscape:cy="20.820366"
+     inkscape:zoom="4.5228716"
+     inkscape:cx="74.731283"
+     inkscape:cy="10.05998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -67,12 +67,16 @@
      inkscape:pagecheckerboard="0"
      guidecolor="#0000ff"
      guideopacity="0.76862745"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid1846"
        originx="26.156238"
-       originy="-6.6894515e-08" />
+       originy="-6.6894515e-08"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata11">
