@@ -770,3 +770,26 @@ Aurorae Themes
 --------------
 
 Updade: alldesktops.svg
+
+Changelog: 10.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: arrow-up-prelight.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Added icon: telegram.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: telegram.svg
