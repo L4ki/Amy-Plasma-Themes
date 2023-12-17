@@ -793,3 +793,31 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Added icon: telegram.svg
+
+Changelog: 17.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Uodate widget: radiobutton.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Uodate widget: radiobutton.svg
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
