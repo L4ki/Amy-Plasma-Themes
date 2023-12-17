@@ -810,12 +810,12 @@ Added new icons: apps 32, 48
 Plasma Theme "Amy-Plasma"
 -------------------------
 
-Uodate widget: radiobutton.svg
+Update widget: radiobutton.svg
 
 Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
-Uodate widget: radiobutton.svg
+Update widget: radiobutton.svg
 
 Aurorae Themes
 --------------
