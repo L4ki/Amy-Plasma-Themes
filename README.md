@@ -821,3 +821,31 @@ Aurorae Themes
 --------------
 
 Update: shade.svg
+
+Changelog: 24.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: notebook.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Update widget: switch.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Update widget: switch.svg
+
+Aurorae Themes
+--------------
+
+Update: restore.svg
