@@ -861,7 +861,7 @@ Update: gtk-4.0
 Icons
 -----
 
-Added new icons: apps 32, 48
+Added new icons: apps 48
 
 Plasma Theme "Amy-Plasma"
 -------------------------
