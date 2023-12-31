@@ -849,3 +849,31 @@ Aurorae Themes
 --------------
 
 Update: restore.svg
+
+Changelog: 31.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-4.0
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme "Amy-Plasma"
+-------------------------
+
+Added icon: osd.svg
+
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Added icon: osd.svg
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
