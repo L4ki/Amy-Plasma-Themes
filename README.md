@@ -877,3 +877,21 @@ Aurorae Themes
 --------------
 
 Update: decoration.svg
+
+Changelog: 08.01.2024.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-3.0
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
+-------------------------
+
+Update icon: veracrypt.svg
