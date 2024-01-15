@@ -914,3 +914,8 @@ Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------
 
 Added icon: solaar.svg
+
+Aurorae Themes
+--------------
+
+Update: restore.svg
