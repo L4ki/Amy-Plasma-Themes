@@ -895,3 +895,22 @@ Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------
 
 Update icon: veracrypt.svg
+
+
+Changelog: 15.01.2024.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
+-------------------------
+
+Added icon: solaar.svg
