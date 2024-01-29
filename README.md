@@ -59,13 +59,13 @@ Screenshots "Amy-Ligh-Plasma"
 
 
 
-Changelog: 22.01.2024.
+Changelog: 29.01.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: checkbox-unchecked.png
+Update: styles
 
 Icons
 -----
@@ -75,9 +75,9 @@ Added new icons: apps 48
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
 
-Update widget: background.svg
+Update widget: checkmarks.svg
 
 Aurorae Themes
 --------------
 
-Update: keepabove.svg
+Update: maximize.svg
