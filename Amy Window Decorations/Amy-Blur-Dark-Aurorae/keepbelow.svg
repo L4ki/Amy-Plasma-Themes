@@ -4,7 +4,7 @@
    width="22.000002"
    height="22.000002"
    id="svg2"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="keepbelow.svg"
    viewBox="0 0 20.625004 20.625002"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -44,12 +44,12 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="5.951482"
-     inkscape:cx="82.164409"
-     inkscape:cy="14.450182"
+     inkscape:zoom="4.2083333"
+     inkscape:cx="85.782179"
+     inkscape:cy="44.079208"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,10 +58,16 @@
      showguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#c7c7c7">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
-       id="grid4938" />
+       id="grid4938"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata11">
