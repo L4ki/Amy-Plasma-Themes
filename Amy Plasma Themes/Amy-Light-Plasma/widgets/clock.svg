@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="214"
    height="214"
    sodipodi:docname="clock.svg"
@@ -33,12 +33,12 @@
      gridtolerance="4"
      objecttolerance="6"
      borderopacity="1"
-     bordercolor="#0006ff"
+     bordercolor="#0005e5"
      pagecolor="#000000"
      id="base"
-     inkscape:zoom="1.0050826"
-     inkscape:cx="-70.640959"
-     inkscape:cy="145.75916"
+     inkscape:zoom="1.4214014"
+     inkscape:cx="106.93671"
+     inkscape:cy="212.1146"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -528,7 +528,7 @@
          height="2"
          rx="1.5338267"
          ry="1"
-         style="paint-order:fill markers stroke;stroke-width:0.910435;fill-opacity:1;fill:currentColor;"
+         style="fill:currentColor;fill-opacity:1;stroke-width:0.910435;paint-order:fill markers stroke"
          id="rect166"
          class="ColorSneme-Highlight  ColorScheme-Highlight" />
       <circle
@@ -551,14 +551,14 @@
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-width="1.3333"
-         style="paint-order:fill markers stroke;fill-opacity:1;fill:currentColor;"
+         style="fill:currentColor;fill-opacity:1;paint-order:fill markers stroke"
          id="path173"
          class="ColorScheme-Text" />
       <path
          transform="translate(-23,-2)"
          d="m 123,105 -2,7 1,63 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 l 1,-63 z"
          id="path175"
-         style="fill-opacity:1;fill:currentColor;"
+         style="fill:currentColor;fill-opacity:1"
          class="ColorScheme-Text" />
     </g>
     <rect
@@ -585,7 +585,7 @@
       <path
          d="m 93,103 -2,7 1,44 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 l 1,-44 z"
          id="path182"
-         style="fill-opacity:1;fill:currentColor;"
+         style="fill:currentColor;fill-opacity:1"
          class="ColorScheme-Text"
          transform="rotate(-90,85,85)" />
       <path
@@ -593,7 +593,7 @@
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-width="1.3333"
-         style="paint-order:fill markers stroke;fill-opacity:1;fill:currentColor;"
+         style="fill:currentColor;fill-opacity:1;paint-order:fill markers stroke"
          id="path184"
          class="ColorScheme-Text" />
     </g>
