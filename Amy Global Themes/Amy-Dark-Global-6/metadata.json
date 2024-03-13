@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Amy-Dark-Global-6",
+        "Description": "Amy-Dark Global Theme by l4k1",
+        "Id": "Amy-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Amy-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2137359",
+        "kns://window-decorations.knsrc/api.kde-look.org/2137358",
+        "kns://colorschemes.knsrc/api.kde-look.org/2011589",
+        "kns://colorschemes.knsrc/api.kde-look.org/2011588",
+        "kns://icons.knsrc/api.kde-look.org/2011598",
+        "kns://icons.knsrc/api.kde-look.org/2011596",
+        "kns://icons.knsrc/api.kde-look.org/2123739",
+        "kns://icons.knsrc/api.kde-look.org/2123737",
+        "kns://icons.knsrc/api.kde-look.org/2119129",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2011600",
+        "kns://wallpaper.knsrc/api.kde-look.org/2011581",
+        "kns://wallpaper.knsrc/api.kde-look.org/2011580"
+    ]
+}
