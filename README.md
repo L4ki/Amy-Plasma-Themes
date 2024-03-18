@@ -60,6 +60,11 @@ Screenshots "Amy-Ligh-Plasma"
 Changelog: 18.03.2024.
 ----------------------
 
+Plasma Theme "Amy-Light-Plasma"
+-------------------------------
+
+Update widget: listitem.svg
+
 Added Light Window Decorations, Splashscreen and Golobal Theme  For Plasma 6
 
 Changelog: 13.03.2024.
