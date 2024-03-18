@@ -1,0 +1,37 @@
+[General]
+ActiveTextColor=30, 36, 49
+InactiveTextColor=110, 127, 166
+LeftButtons=XIA
+RightButtons=
+Shadow=false
+TextShadowOffsetX=1
+TextShadowOffsetY=1
+TitleAlignment=Center
+TitleVerticalAlignment=Center
+UseTextShadow=true
+Animation=0
+
+[Layout]
+BorderBottom=0
+BorderLeft=0
+BorderRight=0
+ButtonHeight=22
+ButtonMarginTop=0
+ButtonSpacing=4
+ButtonWidth=22
+ExplicitButtonSpacer=0
+PaddingBottom=17
+PaddingLeft=17
+PaddingRight=17
+PaddingTop=17
+TitleBorderLeft=7
+TitleBorderRight=7
+TitleEdgeBottom=7
+TitleEdgeBottomMaximized=7
+TitleEdgeLeft=7
+TitleEdgeLeftMaximized=7
+TitleEdgeRight=7
+TitleEdgeRightMaximized=7
+TitleEdgeTop=7
+TitleEdgeTopMaximized=7
+TitleHeight=22
