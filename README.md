@@ -60,7 +60,7 @@ Screenshots "Amy-Ligh-Plasma"
 Changelog: 18.03.2024.
 ----------------------
 
-Added Window Decorations and Splashscreen  For Plasma 6
+Added Light Window Decorations, Splashscreen and Golobal Theme  For Plasma 6
 
 Changelog: 13.03.2024.
 ----------------------
