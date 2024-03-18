@@ -64,9 +64,9 @@ Plasma Theme "Amy-Light-Plasma"
 -------------------------------
 
 Update widget: listitem.svg
----------------------------
 
 Added Light Window Decorations, Splashscreen and Golobal Theme  For Plasma 6
+____________________________________________________________________________
 
 Changelog: 13.03.2024.
 ----------------------
