@@ -3,7 +3,7 @@
 
 <svg
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.1"
    id="svg3557"
    height="460"
@@ -18,7 +18,12 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      id="current-color-scheme"
-     type="text/css">&#10;.ColorScheme-Highlight { &#10;    color:#7580bc;&#10;}&#10;.ColorScheme-Text { stop-color:#ffffff;    color:#ffffff; }&#10;</style>
+     type="text/css">
+.ColorScheme-Highlight { 
+    color:#7580bc;
+}
+.ColorScheme-Text { stop-color:#ffffff;    color:#ffffff; }
+</style>
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
@@ -27,12 +32,12 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66240976"
-     inkscape:cx="416.66053"
-     inkscape:cy="352.50084"
+     inkscape:cx="549.50881"
+     inkscape:cy="446.0985"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="1872"
      inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -20350,21 +20355,23 @@
     </g>
     <g
        id="east-focus-hint-bottom-margin"
-       transform="translate(0,8.0000046)">
+       transform="matrix(1,0,0,4,0,-1961.0867)"
+       style="stroke-width:0.499999">
       <rect
          y="730"
          x="-657.36218"
          height="5"
          width="1"
          id="focus-hint-left-margin-4"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          transform="rotate(-90)" />
     </g>
     <g
        id="east-focus-hint-top-margin"
-       transform="translate(0,24.000013)">
+       transform="matrix(1,0,0,4,0,-1750.0867)"
+       style="stroke-width:0.499999">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          id="focus-hint-right-margin-3"
          width="1"
          height="5"
@@ -20374,21 +20381,23 @@
     </g>
     <g
        id="east-focus-hint-left-margin"
-       transform="translate(14,24.000013)">
+       transform="matrix(4.0000105,0,0,1,-2071.0071,24.000013)"
+       style="stroke-width:0.499999">
       <rect
          y="695"
          x="-617.36218"
          height="0.99999738"
          width="5"
          id="focus-hint-top-margin-0"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          transform="rotate(-90)" />
     </g>
     <g
        id="east-focus-hint-right-margin"
-       transform="translate(-20.999972,23.999991)">
+       transform="matrix(3.9999884,0,0,1,-2357.9912,23.999991)"
+       style="stroke-width:0.500001">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223608"
          id="focus-hint-bottom-margin-7"
          width="5"
          height="1.0000026"
@@ -21187,10 +21196,10 @@
     </g>
     <g
        id="west-minimized-hint-top-margin"
-       transform="matrix(1,0,0,0.2,-70,606.68974)"
-       style="fill:#008080">
+       transform="matrix(1,0,0,0.6,-70,315.3449)"
+       style="fill:#008080;stroke-width:0.57735">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735"
          id="minimized-hint-left-margin-8"
          width="5"
          height="5"
@@ -21201,15 +21210,15 @@
     </g>
     <g
        id="west-minimized-hint-bottom-margin"
-       transform="matrix(1,0,0,0.2,-70,645.88973)"
-       style="fill:#008080">
+       transform="matrix(1,0,0,0.6,-70,334.94491)"
+       style="fill:#008080;stroke-width:0.577351">
       <rect
          y="-220"
          x="777.36218"
          height="5"
          width="5"
          id="minimized-hint-right-margin-7"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735"
          inkscape:label="#minimized-hint-right-margin"
          transform="rotate(90)" />
     </g>
@@ -21457,10 +21466,10 @@
     </g>
     <g
        id="west-hover-hint-top-margin"
-       transform="matrix(1,0,0,0.20000008,-180,664.48967)"
-       style="fill:#008080">
+       transform="matrix(1,0,0,0.6,-180,348.74488)"
+       style="fill:#008080;stroke-width:0.57735">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735"
          id="hover-hint-left-margin-0"
          width="5"
          height="5"
@@ -21471,15 +21480,15 @@
     </g>
     <g
        id="west-hover-hint-bottom-margin"
-       transform="matrix(1,0,0,0.19999992,-175,703.6898)"
-       style="fill:#008080">
+       transform="matrix(1,0,0,0.6,-175,368.3449)"
+       style="fill:#008080;stroke-width:0.577349">
       <rect
          y="-325"
          x="838.36218"
          height="5"
          width="5"
          id="hover-hint-right-margin-9"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.577349"
          inkscape:label="#hover-hint-right-margin"
          transform="rotate(90)" />
     </g>
@@ -21730,9 +21739,10 @@
     </g>
     <g
        id="west-focus-hint-top-margin"
-       transform="translate(-100,57.999987)">
+       transform="matrix(1,0,0,2.9999989,-100,-1066.7238)"
+       style="stroke-width:0.57735">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2582"
          id="hover-hint-left-margin-0-1"
          width="1.0000004"
          height="5"
@@ -21743,14 +21753,15 @@
     </g>
     <g
        id="west-focus-hint-bottom-margin"
-       transform="translate(-100,12.999997)">
+       transform="matrix(1,0,0,3.0000013,-100,-1281.7254)"
+       style="stroke-width:0.57735">
       <rect
          y="-250"
          x="651.36218"
          height="5"
          width="0.99999958"
          id="hover-hint-right-margin-9-6"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2582"
          inkscape:label="#hover-hint-right-margin"
          transform="rotate(90)" />
     </g>
@@ -22281,9 +22292,10 @@
     </g>
     <g
        id="west-normal-hint-top-margin"
-       transform="translate(-80,27.999989)">
+       transform="matrix(1,0,0,3.9999986,-80,-1944.0856)"
+       style="stroke-width:0.5">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223608"
          id="hover-hint-left-margin-0-1-1"
          width="1.0000004"
          height="5"
@@ -22294,24 +22306,24 @@
     </g>
     <g
        id="west-normal-hint-bottom-margin"
-       transform="translate(-80,2.9999809)"
-       style="fill:#008080">
+       transform="matrix(1,0,0,4.0000014,-80,-2191.0875)"
+       style="fill:#008080;stroke-width:0.499999">
       <rect
          y="-230"
          x="731.36218"
          height="5"
          width="0.99999958"
          id="hover-hint-right-margin-9-6-9"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223608"
          inkscape:label="#hover-hint-right-margin"
          transform="rotate(90)" />
     </g>
     <g
        id="west-normal-hint-right-margin"
-       transform="translate(-102,10.999987)"
-       style="fill:#008080">
+       transform="matrix(4,0,0,1,-924,10.999987)"
+       style="fill:#008080;stroke-width:0.499999">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          id="hover-hint-top-margin-6-2-9"
          width="5"
          height="1"
@@ -22322,14 +22334,15 @@
     </g>
     <g
        id="west-normal-hint-left-margin"
-       transform="translate(-67,12.999987)">
+       transform="matrix(4,0,0,1,-637,12.999987)"
+       style="stroke-width:0.499999">
       <rect
          y="-191"
          x="695.36218"
          height="1"
          width="5"
          id="hover-hint-bottom-margin-3-6-1"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223608"
          inkscape:label="#hover-hint-bottom-margin"
          transform="rotate(90)" />
     </g>
@@ -22564,45 +22577,48 @@
     </g>
     <g
        id="east-normal-hint-bottom-margin"
-       transform="translate(0,12.000038)">
+       transform="matrix(1,0,0,4,0,-2155.0863)"
+       style="stroke-width:0.499999">
       <rect
          y="730"
          x="-723.36218"
          height="5"
          width="1"
          id="focus-hint-left-margin-4-6"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          transform="rotate(-90)" />
     </g>
     <g
-       id="#east-normal-hint-top-margin"
-       transform="translate(-1,35.00004)">
+       id="east-normal-hint-top-margin"
+       style="stroke-width:1">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447215"
          id="focus-hint-right-margin-3-5"
-         width="1"
+         width="4"
          height="5"
-         x="-651.36218"
-         y="731"
+         x="-689.3623"
+         y="730"
          transform="rotate(-90)" />
     </g>
     <g
-       id="g5962"
-       transform="translate(13,20.000024)">
+       id="east-normal-hint-left-margin"
+       transform="translate(-2.8051761e-5)"
+       style="stroke-width:1">
       <rect
-         y="696"
-         x="-692.36218"
-         height="0.99999738"
+         y="709.00012"
+         x="-712.36218"
+         height="4"
          width="5"
          id="focus-hint-top-margin-0-4"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447212"
          transform="rotate(-90)" />
     </g>
     <g
        id="east-normal-hint-right-margin"
-       transform="translate(-16.999976,18.000019)">
+       transform="matrix(3.9999884,0,0,1,-2341.9908,18.000019)"
+       style="stroke-width:0.5">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223608"
          id="focus-hint-bottom-margin-7-6"
          width="5"
          height="1.0000026"
@@ -22841,21 +22857,23 @@
     </g>
     <g
        id="east-minimized-hint-bottom-margin"
-       transform="translate(0,-4.999963)">
+       transform="matrix(1,0,0,4,0,-2424.0862)"
+       style="stroke-width:0.5">
       <rect
          y="730"
          x="-807.36218"
          height="5"
          width="1"
          id="focus-hint-left-margin-4-0"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          transform="rotate(-90)" />
     </g>
     <g
        id="east-minimized-hint-top-margin"
-       transform="translate(0,25.00004)">
+       transform="matrix(1,0,0,4,0,-2157.0863)"
+       style="stroke-width:0.499999">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          id="focus-hint-right-margin-3-1"
          width="1"
          height="5"
@@ -22865,21 +22883,23 @@
     </g>
     <g
        id="east-minimized-hint-left-margin"
-       transform="translate(19,12.000038)">
+       transform="matrix(4.0000105,0,0,1,-2051.0068,12.000038)"
+       style="stroke-width:0.499999">
       <rect
          y="690"
          x="-767.36218"
          height="0.99999738"
          width="5"
          id="focus-hint-top-margin-0-7"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          transform="rotate(-90)" />
     </g>
     <g
        id="east-minimized-hint-right-margin"
-       transform="translate(-20.99998,12.000001)">
+       transform="matrix(3.9999884,0,0,1,-2357.9908,12.000001)"
+       style="stroke-width:0.5">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          id="focus-hint-bottom-margin-7-1"
          width="5"
          height="1.0000026"
@@ -23669,21 +23689,23 @@
     </g>
     <g
        id="north-normal-hint-right-margin"
-       transform="translate(-28,24.000013)">
+       transform="matrix(4,0,0,1,-1210,24.000013)"
+       style="stroke-width:0.499999">
       <rect
          y="-687.36218"
          x="-395"
          height="5"
          width="1"
          id="focus-hint-left-margin-5-7"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223606"
          transform="scale(-1)" />
     </g>
     <g
        id="north-normal-hint-left-margin"
-       transform="translate(22,24.000013)">
+       transform="matrix(4,0,0,1,-863,24.000013)"
+       style="stroke-width:0.499999">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          id="focus-hint-right-margin-5-5"
          width="1"
          height="5"
@@ -23693,21 +23715,23 @@
     </g>
     <g
        id="north-normal-hint-bottom-margin"
-       transform="translate(0,8.0000046)">
+       transform="matrix(1,0,0,4.0000105,0,-2171.0941)"
+       style="stroke-width:0.499999">
       <rect
          y="-727.36218"
          x="-345"
          height="0.99999738"
          width="5"
          id="focus-hint-top-margin-4-9"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          transform="scale(-1)" />
     </g>
     <g
        id="north-normal-hint-top-margin"
-       transform="translate(0,33.00001)">
+       transform="matrix(1,0,0,3.9999895,0,-1924.0797)"
+       style="stroke-width:0.5">
       <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
          id="focus-hint-bottom-margin-76-7"
          width="5"
          height="1.0000026"
@@ -24869,8 +24893,8 @@
        transform="scale(-1)" />
     <rect
        id="normal-hint-bottom-margin"
-       x="566.75"
-       y="708.36218"
+       x="579.98151"
+       y="715.89856"
        width="4"
        height="4"
        fill="#ff00ff" />
@@ -24890,8 +24914,8 @@
        fill="#ff00ff" />
     <rect
        id="normal-hint-left-margin"
-       x="580.75"
-       y="715.61218"
+       x="568.69208"
+       y="709.58691"
        width="4"
        height="4"
        fill="#ff00ff" />
