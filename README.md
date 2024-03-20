@@ -68,25 +68,25 @@ Update widget: listitem.svg
 Added Light Window Decorations, Splashscreen and Golobal Theme  For Plasma 6
 ____________________________________________________________________________
 
-Changelog: 13.03.2024.
+Changelog: 20.03.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: styles
+Update: handle-v.png
 
 Icons
 -----
 
-Added new icons: apps 48
+Update icons: actions
 
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
 
-Update widget: clock.svg
+Update widget: tasks.svg
 
 Aurorae Themes
 --------------
 
-Update: metadata.desktop
+Update: rc file (For Plasma 5), decoration.svg (for Plasma 6)
