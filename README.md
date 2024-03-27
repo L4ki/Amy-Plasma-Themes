@@ -57,36 +57,27 @@ Screenshots "Amy-Ligh-Plasma"
 
 ![5](https://user-images.githubusercontent.com/45247573/232206178-b1ac88f4-ff1d-438d-b81c-bafe46a5e2eb.jpg)
 
-Changelog: 18.03.2024.
-----------------------
 
-Plasma Theme "Amy-Light-Plasma"
--------------------------------
 
-Update widget: listitem.svg
-
-Added Light Window Decorations, Splashscreen and Golobal Theme  For Plasma 6
-____________________________________________________________________________
-
-Changelog: 20.03.2024.
+Changelog: 27.03.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: handle-v.png
+Update: gtk-4.0
 
 Icons
 -----
 
-Update icons: actions
+Added new icons: places
 
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
 
-Update widget: tasks.svg
+Update widgets: listitem.svg, arrows.savg
 
 Aurorae Themes
 --------------
 
-Update: rc file (For Plasma 5), decoration.svg (for Plasma 6)
+Update: metadata.desktop, metadata.json
