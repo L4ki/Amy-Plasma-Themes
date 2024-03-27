@@ -22,13 +22,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#000ae5"
+     bordercolor="#0008b2"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0277416"
-     inkscape:cx="32.138553"
-     inkscape:cy="33.820222"
+     inkscape:zoom="11.352941"
+     inkscape:cx="27.746114"
+     inkscape:cy="18.629534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,7 +36,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -89,7 +89,7 @@
          inkscape:connector-curvature="0"
          id="path4148"
          d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
-         style="fill:#bac8df;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#1e2431;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          class="ColorScheme-Text" />
     </g>
     <g
@@ -105,7 +105,7 @@
          y="15.610413"
          transform="matrix(0,1,1,0,0,0)" />
       <path
-         style="fill:#bac8df;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#1e2431;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
          id="path4164"
          inkscape:connector-curvature="0"
@@ -124,7 +124,7 @@
          y="15.610413"
          transform="matrix(0,1,1,0,0,0)" />
       <path
-         style="fill:#bac8df;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#1e2431;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
          id="path4170"
          inkscape:connector-curvature="0"
@@ -146,7 +146,7 @@
          inkscape:connector-curvature="0"
          id="path4176"
          d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
-         style="fill:#bac8df;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#1e2431;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          class="ColorScheme-Text" />
     </g>
   </g>
