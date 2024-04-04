@@ -59,25 +59,25 @@ Screenshots "Amy-Ligh-Plasma"
 
 
 
-Changelog: 27.03.2024.
+Changelog: 04.04.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Icons
 -----
 
-Added new icons: places
+Update icons: applats 64
 
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
 
-Update widgets: listitem.svg, arrows.savg
+Update: metadata.desktop
 
 Aurorae Themes
 --------------
 
-Update: metadata.desktop, metadata.json
+Update: metadata.desktop
