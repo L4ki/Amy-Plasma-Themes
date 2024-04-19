@@ -24,7 +24,7 @@ style "thunar-frame" {
 widget_class "*ThunarWindow*.<GtkScrolledWindow>"       style "thunar-frame"
 widget_class "*ThunarShortcutsView*"                    style "dark-sidebar"
 widget_class "*ThunarTreeView*"                         style "dark-sidebar"
-widget_class "*ThunarWindow*.<GtkHPaned>"               style "thunar-handle"
+widget_class "*ThunarWindow*.<GtkHPaned>"style "thunar-handle"
 
 #
 # Workaround for colored entries
