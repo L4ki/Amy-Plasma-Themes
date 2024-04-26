@@ -2335,9 +2335,9 @@ class "GtkWindow"                                                   style "tople
 widget "*openoffice-toplevel*"                                      style "ooo_stepper_hack"
 
 # Xfce
-widget_class "*XfdesktopIconView*"                                  style "xfdesktop-icon-view"
-widget "xfwm4-tabwin*"                                              style "xfwm-tabwin"
-widget "xfwm4-tabwin*GtkButton*"                                    style "xfwm-tabwin-button"
+widget_class "*XfdesktopIconView*"style "xfdesktop-icon-view"
+widget "xfwm4-tabwin*"style "xfwm-tabwin"
+widget "xfwm4-tabwin*GtkButton*"style "xfwm-tabwin-button"
 
 # Fixes ugly text shadows for insensitive text
 widget_class "*<GtkLabel>"style "text"
