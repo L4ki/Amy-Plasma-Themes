@@ -4,7 +4,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="folder-deb.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -34,12 +34,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      id="namedview14"
      showgrid="true"
      inkscape:zoom="3.6875"
-     inkscape:cx="8.5423729"
-     inkscape:cy="61.152542"
+     inkscape:cx="8.6779661"
+     inkscape:cy="61.016949"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,7 +49,13 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid2873" />
+       id="grid2873"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs3051">
@@ -216,7 +222,7 @@
      style="fill:#000000;fill-opacity:1" />
   <path
      d="m 33.06811,15.463298 c -1.106242,0 -2.540769,0.973498 -3.095769,1.943625 -1.194811,1.14631 -2.258772,2.321105 -4.400979,2.321105 H 5.2142739 C 3.0714179,19.728028 2,20.794206 2,22.926626 V 50.64757 c 0,3.198565 2.14321,5.331041 5.3571432,5.331041 H 56.642846 c 3.213932,0 5.357151,-2.132385 5.357151,-5.33097 v -31.98577 c 0,-2.132376 -1.077392,-3.198573 -3.220012,-3.198573 z"
-     style="opacity:0.851;fill:url(#linearGradient2015);fill-opacity:1;stroke-width:3.80507;paint-order:markers stroke fill"
+     style="opacity:0.61147903;fill:url(#linearGradient2015);fill-opacity:1;stroke-width:3.80507;paint-order:markers stroke fill"
      id="path8-7-2-9-1-6-2-9-2-5-2"
      sodipodi:nodetypes="ccccsssssscc"
      opacity="0.6" />
