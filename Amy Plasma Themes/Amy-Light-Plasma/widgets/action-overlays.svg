@@ -4,7 +4,7 @@
    height="82"
    id="svg7229"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.0"
    sodipodi:docname="action-overlays.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -189,19 +189,19 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#0d0d0d"
-     bordercolor="#0002ff"
+     pagecolor="#000000"
+     bordercolor="#0002e5"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.7654321"
-     inkscape:cx="56.867876"
-     inkscape:cy="64.317357"
+     inkscape:zoom="3.3696694"
+     inkscape:cx="57.275649"
+     inkscape:cy="93.629364"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="false"
@@ -212,14 +212,17 @@
      inkscape:lockguides="false"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#0d0d0d">
+     inkscape:deskcolor="#000000">
     <inkscape:grid
        type="xygrid"
        id="grid7245"
        visible="true"
        enabled="true"
        originx="-4.9999676"
-       originy="-7.9999478" />
+       originy="-7.9999478"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7234">
