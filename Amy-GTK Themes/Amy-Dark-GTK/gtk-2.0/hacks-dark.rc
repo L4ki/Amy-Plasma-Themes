@@ -3,6 +3,7 @@
 # GTK+ 2 hardcodes a light shadow under certain inactive things. We can use this
 # horrible workaround to make it at least distinguishable.
 
+
 style "dark_insensitive" {
 
   fg[INSENSITIVE]   = "#8f949a"
