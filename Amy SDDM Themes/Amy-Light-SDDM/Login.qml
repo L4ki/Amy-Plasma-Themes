@@ -49,6 +49,8 @@ SessionManagementScreen {
      */
     function startLogin() {
         passwordBox.text = passwordBox.text.replace(/▀/g,'');
+        // Hide the box after stripping the fake length
+        passwordBox.visible = false;
         const username = showUsernamePrompt ? userNameInput.text : userList.selectedUser
         const password = passwordBox.text
 
@@ -127,6 +129,9 @@ SessionManagementScreen {
             Connections {
                 target: sddm
                 function onLoginFailed() {
+                    //Unhide the box
+                    passwordBox.text = "";
+                    passwordBox.visible = true;
                     passwordBox.selectAll()
                     passwordBox.forceActiveFocus()
                 }
