@@ -48,6 +48,7 @@ SessionManagementScreen {
      * If username field is visible, it will be taken from that, otherwise from the "name" property of the currentIndex
      */
     function startLogin() {
+        passwordBox.text = passwordBox.text.replace(/▀/g,'');
         const username = showUsernamePrompt ? userNameInput.text : userList.selectedUser
         const password = passwordBox.text
 
@@ -118,6 +119,9 @@ SessionManagementScreen {
                     userList.incrementCurrentIndex();
                     event.accepted = true
                 }
+                var spaces = ['','▀','▀▀'];
+                var number = Math.floor(Math.random() * spaces.length);               
+                passwordBox.text = passwordBox.text+spaces[number]; 
             }
 
             Connections {
