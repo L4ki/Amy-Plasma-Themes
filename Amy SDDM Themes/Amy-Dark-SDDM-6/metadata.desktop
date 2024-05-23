@@ -1,0 +1,18 @@
+[SddmGreeterTheme]
+Name=Amy-Dark-SDDM-6
+Description=Amy-Dark-SDDM Login Theme For Plasma 6
+
+Author=KDE Visual Design Group (Modified by l4k1)
+Copyright=(c) 2024, l4k1
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=l4k1987@gmail.com
+Theme-Id=Amy-Dark-SDDM-6
+Theme-API=2.0
+QtVersion=6
