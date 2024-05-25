@@ -51,6 +51,7 @@ SessionManagementScreen {
         passwordBox.text = passwordBox.text.replace(/▀/g,'');
         // Hide the box after stripping the fake length
         passwordBox.visible = false;
+        loading.visible = true;
         const username = showUsernamePrompt ? userNameInput.text : userList.selectedUser
         const password = passwordBox.text
 
@@ -132,6 +133,7 @@ SessionManagementScreen {
                     //Unhide the box
                     passwordBox.text = "";
                     passwordBox.visible = true;
+                    loading.visible = false;
                     passwordBox.selectAll()
                     passwordBox.forceActiveFocus()
                 }
@@ -150,6 +152,17 @@ SessionManagementScreen {
             onClicked: startLogin()
             Keys.onEnterPressed: clicked()
             Keys.onReturnPressed: clicked()
+        }
+    }
+RowLayout{
+        Layout.fillWidth: true
+        PlasmaComponents3.Label{
+            id: "loading"
+            visible: false
+            Layout.fillWidth: true
+            horizontalAlignment: Qt.AlignHCenter
+            font.pointSize: PlasmaCore.Theme.defaultFont.pointSize + 6                      
+            text: i18n("Loading")+"..." 
         }
     }
 }
