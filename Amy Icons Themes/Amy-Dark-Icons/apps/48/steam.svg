@@ -6,7 +6,7 @@
    version="1.1"
    id="svg43"
    sodipodi:docname="steam.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,7 +26,7 @@
      inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,7 @@
        x2="35.969"
        y2="1049.362"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(10,-14.000047)" />
+       gradientTransform="translate(9.523808,-14.476237)" />
     <linearGradient
        xlink:href="#shadow-3"
        id="linearGradient4203"
@@ -72,12 +72,12 @@
        y1="1035.362"
        x2="36"
        y2="1048.362"
-       gradientTransform="translate(13,-1021.3622)" />
+       gradientTransform="translate(12.52381,-1021.8382)" />
     <linearGradient
        xlink:href="#shadow-3"
        id="linearGradient4227"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-15.75,-1005.8622)"
+       gradientTransform="translate(-16.22619,-1006.3382)"
        x1="21.475"
        y1="1035.158"
        x2="34.475"
@@ -89,12 +89,13 @@
        y1="1008.362"
        x2="24"
        y2="1048.362"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.47619215,-0.47619215)" />
     <linearGradient
        xlink:href="#shadow-3"
        id="linearGradient4373"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(5.9783302,-17.513484)"
+       gradientTransform="translate(5.5021382,-17.989674)"
        x1="21.085"
        y1="1036.975"
        x2="35.969"
@@ -103,7 +104,7 @@
        xlink:href="#shadow-3"
        id="linearGradient4377"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-6.3297472,-4.8518532)"
+       gradientTransform="translate(-6.8059392,-5.3280452)"
        x1="21.085"
        y1="1036.975"
        x2="35.969"
@@ -112,14 +113,14 @@
        xlink:href="#shadow-3"
        id="linearGradient4381"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2.8703079,-1.1698725)"
+       gradientTransform="translate(-3.3464999,-1.6460645)"
        x1="21.969"
        y1="1035.362"
        x2="35.969"
        y2="1049.362" />
   </defs>
   <g
-     transform="matrix(1.0499963,0,0,1.0499963,-1.1999852,-1055.7764)"
+     transform="matrix(1.0499963,0,0,1.0499963,-0.6999852,-1055.2764)"
      id="g41">
     <circle
        style="opacity:1;fill:url(#linearGradient4351);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -170,4 +171,10 @@
        transform="translate(0,1004.3622)"
        id="path39" />
   </g>
+  <path
+     style="color:#d1d5e9;display:inline;fill:#61699e;fill-opacity:1;stroke-width:2.6875"
+     class="ColorScheme-Text "
+     d="M 24,2.5 C 12.1105,2.5 2.5,12.1105 2.5,24 2.5,35.8895 12.1105,45.5 24,45.5 35.889498,45.5 45.5,35.8895 45.5,24 45.5,12.1105 35.889498,2.5 24,2.5 Z M 24,4 C 35.000124,3.96369 43.96369,13.2 44,24 44.03766,35.199996 34.9,44 24,44.018 13.399999,44.0355 4.0684966,35.381972 4,23.982 3.93631,13.382 13,4.03631 24,4 Z"
+     id="path58"
+     sodipodi:nodetypes="ssssssssss" />
 </svg>
