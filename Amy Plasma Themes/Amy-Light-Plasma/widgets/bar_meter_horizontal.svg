@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="30"
    height="30"
    viewBox="0 0 30 30"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="bar_meter_horizontal.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bar_meter_horizontal.svg">
   <style
      type="text/css"
      id="current-color-scheme">.ColorScheme-Highlight { color:#565d8a; }
@@ -29,12 +27,12 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#0800fe"
+     bordercolor="#0700e5"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="13.718749"
+     inkscape:zoom="19.407409"
+     inkscape:cx="3.9062498"
      inkscape:cy="15.156249"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +41,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +52,8 @@
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
      inkscape:lockguides="false"
-     inkscape:deskcolor="#000000">
+     inkscape:deskcolor="#000000"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2464" />
@@ -67,6 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,14 +98,14 @@
            d="m 11,915.18718 v 3.3 h 7 v -3.3 z"
            style="stroke-width:1.60209;fill-opacity:1;fill:#556fa6;opacity:0.3"
            inkscape:connector-curvature="0"
-           class="ColorScheme-Text  ColorScheme-Highlight" />
+           class="ColorScheme-Text" />
       </g>
       <g
          id="bar-inactive-top">
         <path
            class="ColorScheme-Text"
            inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            d="m 13,914.36218 v 0.8246 h 3 v -0.8246 z"
            id="path1468" />
       </g>
@@ -114,7 +114,7 @@
         <path
            id="path1561"
            d="m 13,919.30979 v -0.8246 h 3 v 0.8246 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            inkscape:connector-curvature="0"
            class="ColorScheme-Text" />
       </g>
@@ -131,7 +131,7 @@
            inkscape:connector-curvature="0"
            id="path1512"
            d="m 16,914.36218 v 0.8246 c 1.12144,0 2,0.72446 2,1.6492 h 1 c 0,-1.38711 -1.31784,-2.4738 -3,-2.4738 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075" />
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075" />
       </g>
       <g
          id="bar-inactive-bottomright">
@@ -143,7 +143,7 @@
            inkscape:connector-curvature="0"
            class="ColorScheme-Text" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            d="m 16,919.30978 v -0.8246 c 1.12144,0 2,-0.72446 2,-1.6492 h 1 c 0,1.38711 -1.31784,2.4738 -3,2.4738 z"
            id="path1556"
            inkscape:connector-curvature="0" />
@@ -151,7 +151,7 @@
       <g
          id="bar-inactive-topleft">
         <path
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            d="m 12.999999,914.36218 v 0.8246 c -1.12144,0 -2,0.72446 -2,1.6492 h -1 c 0,-1.38711 1.31784,-2.4738 3,-2.4738 z"
            id="path1425"
            inkscape:connector-curvature="0" />
@@ -162,12 +162,12 @@
            inkscape:connector-curvature="0"
            id="path1566"
            d="m 12.999998,919.30979 v -0.8246 c -1.12144,0 -2,-0.72446 -2,-1.6492 h -1 c 0,1.38711 1.31784,2.4738 3,2.4738 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075" />
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075" />
       </g>
       <g
          id="bar-inactive-right">
         <path
-           style="color:#31363b;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.806325;stop-color:#31363b"
+           style="color:#31363b;opacity:1;fill:#1e2431;fill-opacity:1;stroke-width:0.806325;stop-color:#31363b"
            class="ColorScheme-Text"
            d="m 18.9,916.78907 c 0,0.57311 -0.372396,1.7535 -0.9,1.77311 l 0.0071,-3.4 c 0.527595,-0.0214 0.892934,1.17311 0.89289,1.6 z"
            inkscape:connector-curvature="0"
@@ -183,16 +183,16 @@
         <path
            id="path1382"
            d="m 13,915.18678 v 3.3 h 3 v -3.3 z"
-           style="stroke-width:1.04882;fill-opacity:1;fill:#556fa6;opacity:1"
+           style="stroke-width:1.04882;fill-opacity:1;fill:#788eba;opacity:1"
            inkscape:connector-curvature="0"
-           class="ColorScheme-Text  ColorScheme-Highlight" />
+           class="ColorScheme-Text" />
       </g>
       <g
          id="bar-active-top">
         <path
            class="ColorScheme-Text"
            inkscape:connector-curvature="0"
-           style="fill:#010101;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            d="m 13,914.36218 v 0.8246 h 3 v -0.8246 z"
            id="path1307" />
       </g>
@@ -201,7 +201,7 @@
         <path
            id="path1324"
            d="m 13,919.30979 v -0.8246 h 3 v 0.8246 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            inkscape:connector-curvature="0"
            class="ColorScheme-Text" />
       </g>
@@ -218,7 +218,7 @@
            inkscape:connector-curvature="0"
            id="path1313"
            d="m 16,914.36218 v 0.8246 c 1.12144,0 2.1,0.72446 2.1,1.6492 H 19 c 0,-1.38711 -1.31784,-2.4738 -3,-2.4738 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            sodipodi:nodetypes="ccccc" />
       </g>
       <g
@@ -231,7 +231,7 @@
            inkscape:connector-curvature="0"
            class="ColorScheme-Text" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            d="m 16,919.30978 v -0.8246 c 1.12144,0 2.1,-0.72446 2.1,-1.6492 H 19 c 0,1.38711 -1.31784,2.4738 -3,2.4738 z"
            id="path1319"
            inkscape:connector-curvature="0"
@@ -240,8 +240,8 @@
       <g
          id="bar-active-left">
         <path
-           style="stroke-width:1.37067;fill-opacity:1;fill:#556fa6;opacity:1"
-           class="ColorScheme-Text  ColorScheme-Highlight"
+           style="stroke-width:1.37067;fill-opacity:1;fill:#788eba;opacity:1"
+           class="ColorScheme-Text"
            d="m 11,916.76218 c 0,-0.89996 1.014658,-1.6166 1.999966,-1.575 l -1.8e-5,3.323 C 12,918.4872 10.996331,917.95081 11,916.76218 Z"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccc"
@@ -250,7 +250,7 @@
       <g
          id="bar-active-topleft">
         <path
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075"
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075"
            d="m 12.999999,914.36218 v 0.8246 c -1.12144,0 -2,0.72446 -2,1.6492 h -1 c 0,-1.38711 1.31784,-2.4738 3,-2.4738 z"
            id="path1302"
            inkscape:connector-curvature="0" />
@@ -261,13 +261,13 @@
            inkscape:connector-curvature="0"
            id="path1329"
            d="m 12.999998,919.30979 v -0.8246 c -1.12144,0 -2,-0.72446 -2,-1.6492 h -1 c 0,1.38711 1.31784,2.4738 3,2.4738 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.908075" />
+           style="fill:#1e2431;fill-opacity:1;stroke-width:0.908075" />
       </g>
       <g
          id="bar-active-right">
         <path
-           style="stop-color:#31363b;stroke-width:1.37067;fill-opacity:1;fill:#556fa6;opacity:1"
-           class="ColorScheme-Text  ColorScheme-Highlight"
+           style="stop-color:#31363b;stroke-width:1.37067;fill-opacity:1;fill:#788eba;opacity:1"
+           class="ColorScheme-Text"
            d="m 18.1,916.86018 c 0,0.89996 -1.00517,1.64416 -2.1,1.625 l 2e-5,-3.298 c 0.99998,-3e-4 2.09995,0.57298 2.09998,1.673 z"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccc"
@@ -279,7 +279,7 @@
     <g
        id="bar-inactive-left">
       <path
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke-width:0.806251;stop-color:#31363b"
+         style="color:#31363b;fill:#1e2431;fill-opacity:1;stroke-width:0.806251;stop-color:#31363b"
          class="ColorScheme-Text"
          d="m 10.100091,916.93515 c 0,-0.57307 0.372356,-1.75336 0.899909,-1.77297 l -0.0072,3.39972 c -0.527545,0.0214 -0.892845,-1.17302 -0.8928,-1.59987 z"
          inkscape:connector-curvature="0"
