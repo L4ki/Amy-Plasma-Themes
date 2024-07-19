@@ -25,7 +25,7 @@
      type="text/css">.ColorScheme-Highlight { color:#565d8a;    stop-color:#565d8a; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="994"
+     inkscape:window-height="990"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -33,12 +33,12 @@
      gridtolerance="10.0"
      objecttolerance="10.0"
      borderopacity="1"
-     bordercolor="#0100fa"
+     bordercolor="#0100ff"
      pagecolor="#000000"
      id="base"
      inkscape:zoom="4"
-     inkscape:cx="63.5"
-     inkscape:cy="68.75"
+     inkscape:cx="55"
+     inkscape:cy="76.125"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
