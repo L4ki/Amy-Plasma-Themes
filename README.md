@@ -59,13 +59,13 @@ Screenshots "Amy-Ligh-Plasma"
 
 
 
-Changelog: 12.07.2024.
+Changelog: 19.07.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: apps.rc
 
 Icons
 -----
@@ -75,7 +75,7 @@ Added new icons: apps 48
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
 
-Update widget: configuration-icons.svg
+Update widget: listitem.svg
 
 
 Aurorae Themes
