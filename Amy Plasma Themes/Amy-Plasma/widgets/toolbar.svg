@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="19"
    height="19"
    sodipodi:docname="toolbar.svg"
@@ -23,7 +23,7 @@
      type="text/css">.ColorScheme-Background { siop-color:#1d212f;    color:#1d212f; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="1003"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -31,11 +31,11 @@
      gridtolerance="10.0"
      objecttolerance="10.0"
      borderopacity="1"
-     bordercolor="#0800ef"
+     bordercolor="#0700cc"
      pagecolor="#000000"
      id="base"
      inkscape:zoom="11.313709"
-     inkscape:cx="12.065009"
+     inkscape:cx="12.109203"
      inkscape:cy="17.810251"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -67,10 +67,15 @@
        id="grid5592"
        type="xygrid"
        color="#9595ff"
-       opacity="0.1372549"
+       opacity="0.137255"
        empcolor="#9e9eff"
        empopacity="0.20392157"
-       dotted="false" />
+       dotted="false"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
