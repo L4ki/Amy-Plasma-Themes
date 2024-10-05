@@ -4,8 +4,8 @@
    height="48"
    version="1.1"
    id="svg1675"
-   sodipodi:docname="muondiscover.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="muon-discover.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,16 +22,40 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.305085"
-     inkscape:cy="24.305085"
+     inkscape:cx="24.406779"
+     inkscape:cy="56.949152"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1675" />
   <defs
      id="defs1649">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#222638;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#222638;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#252525;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#252525;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient936">
@@ -230,7 +254,7 @@
        xlink:href="#i"
        id="linearGradient2952"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.74285712,0,0,0.74285712,6.0290343,1.4143896)"
+       gradientTransform="matrix(0.74285712,0,0,0.74285712,6.0290343,-1.2857134)"
        x1="16"
        y1="23"
        x2="32"
@@ -244,6 +268,26 @@
        x2="23.416798"
        y2="11.625639"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="24.781477"
+       cy="36.277609"
+       fx="24.781477"
+       fy="36.277609"
+       r="15.326478"
+       gradientTransform="matrix(1,0,0,0.30975762,0,25.040343)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient4"
+       x1="8.958"
+       y1="34.986346"
+       x2="41.279248"
+       y2="34.986346"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      width="41.999985"
@@ -254,35 +298,30 @@
      rx="20.999992"
      id="rect16"
      style="fill:url(#linearGradient938);fill-opacity:1" />
-  <text
-     id="text24"
-     xml:space="preserve"
-     style="line-height:1.25"
-     word-spacing="0px"
-     stroke-width="0.239404"
-     letter-spacing="0px"
-     font-size="9.57602px"
-     font-family="sans-serif"
-     fill="#ffffff"
-     y="38.931568"
-     x="11.976006"><tspan
-       id="tspan22"
-       stroke-width="0.239404"
-       fill="#ffffff"
-       y="38.931568"
-       x="11.976006">SHOP</tspan></text>
   <path
      d="m 15.999997,18.514103 v -5 c 0,-4.4320004 3.568,-8.0000004 8,-8.0000004 4.432,0 8,3.568 8,8.0000004 v 5 h -1 v -5 c 0,-3.8780004 -3.122,-7.0000004 -7,-7.0000004 -3.878,0 -7,3.122 -7,7.0000004 v 5 z"
      id="path1665-2"
-     style="fill:#ffffff;fill-opacity:1" />
+     style="fill:#222638;fill-opacity:1;stroke-width:1;stroke-dasharray:none;stroke:#222638;stroke-opacity:1" />
   <path
      opacity="0.2"
      fill="url(#i)"
-     d="m 21.411377,18.71776 -1.0504,1.050397 5.94286,5.94286 -0.21766,0.21766 8.17142,8.171426 h 2.97143 v -4.457146 l -7.42856,-7.428572 -2.44624,2.446236 z m -1.59417,4.565595 -1.5756,1.575601 4.08571,4.085719 -1.00582,1.005828 4.1496,4.1496 h 5.1636 z"
+     d="m 21.411377,16.017657 -1.0504,1.050397 5.94286,5.94286 -0.21766,0.21766 8.17142,8.171426 h 2.97143 v -4.457146 l -7.42856,-7.428572 -2.44624,2.446236 z m -1.59417,4.565595 -1.5756,1.575601 4.08571,4.085719 -1.00582,1.005828 4.1496,4.1496 h 5.1636 z"
      id="path1655-2"
      style="fill:url(#linearGradient2952);stroke-width:0.742854" />
   <path
-     d="m 20.886177,18.500103 c -0.41155,0 -0.74286,0.331314 -0.74286,0.742853 0,0.411547 0.33131,0.742861 0.74286,0.742861 0.41154,0 0.74285,-0.331314 0.74285,-0.742861 0,-0.411539 -0.33131,-0.742853 -0.74285,-0.742853 m 5.2,0 -1.48571,1.485714 2.22857,2.228568 -2.22857,2.228575 1.48571,1.485717 3.71429,-3.714292 z m -7.05714,4.457146 c -0.61732,0 -1.11429,0.496971 -1.11429,1.114282 0,0.617318 0.49697,1.114289 1.11429,1.114289 0.61731,0 1.11428,-0.496971 1.11428,-1.114289 0,-0.617311 -0.49697,-1.114282 -1.11428,-1.114282 m 3.34286,4.457137 c -0.82309,0 -1.48572,0.662635 -1.48572,1.485715 0,0.823085 0.66263,1.48572 1.48572,1.48572 0.82308,0 1.48571,-0.662635 1.48571,-1.48572 0,-0.82308 -0.66263,-1.485715 -1.48571,-1.485715"
+     d="m 20.886177,15.8 c -0.41155,0 -0.74286,0.331314 -0.74286,0.742853 0,0.411547 0.33131,0.742861 0.74286,0.742861 0.41154,0 0.74285,-0.331314 0.74285,-0.742861 0,-0.411539 -0.33131,-0.742853 -0.74285,-0.742853 m 5.2,0 -1.48571,1.485714 2.22857,2.228568 -2.22857,2.228575 1.48571,1.485717 3.71429,-3.714292 z m -7.05714,4.457146 c -0.61732,0 -1.11429,0.496971 -1.11429,1.114282 0,0.617318 0.49697,1.114289 1.11429,1.114289 0.61731,0 1.11428,-0.496971 1.11428,-1.114289 0,-0.617311 -0.49697,-1.114282 -1.11428,-1.114282 m 3.34286,4.457137 c -0.82309,0 -1.48572,0.662635 -1.48572,1.485715 0,0.823085 0.66263,1.48572 1.48572,1.48572 0.82308,0 1.48571,-0.662635 1.48571,-1.48572 0,-0.82308 -0.66263,-1.485715 -1.48571,-1.485715"
      id="path1671-0"
-     style="fill:#ffffff;fill-opacity:1" />
+     style="fill:#222638;fill-opacity:1;stroke:#222638;stroke-opacity:1;stroke-width:0.70000002;stroke-dasharray:none" />
+  <text
+     id="text24-7"
+     font-size="12.143px"
+     y="39.302803"
+     x="9.1572199"
+     style="stroke:#222638;stroke-opacity:1;fill:#222638;fill-opacity:1"><tspan
+       id="tspan22-5"
+       stroke-width="0.345115"
+       fill="#ffffff"
+       y="39.302803"
+       x="9.1572199"
+       style="fill:#222638;fill-opacity:1;stroke:#222638;stroke-width:1.35897;stroke-dasharray:none;stroke-opacity:1">SHOP</tspan></text>
 </svg>
