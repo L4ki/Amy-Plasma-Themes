@@ -2327,7 +2327,7 @@ widget_class "*Chrom*Button*"                                       style "butto
 widget_class "*<GtkCustomMenu>*<GtkCustomMenuItem>*"                style "chrome_menu_item"
 
 # Eclipse/SWT
-widget "gtk-tooltips*"                                              style "eclipse-tooltips"
+widget "gtk-tooltips*"style "eclipse-tooltips"
 widget "*swt-toolbar-flat"style "null"
 
 # Openoffice, Libreoffice
