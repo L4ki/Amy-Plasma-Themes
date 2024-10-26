@@ -7,7 +7,7 @@
    sodipodi:docname="lineedit.svg"
    height="108"
    width="44"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:version="0.32"
    id="svg2"
    viewBox="0 0 41.249999 101.25001"
@@ -21,9 +21,10 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Highlight { color:#5581aa; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-Highlight { color:#5581aa; }
+</style>
   <sodipodi:namedview
-     inkscape:window-height="996"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -31,12 +32,12 @@
      gridtolerance="10.0"
      objecttolerance="10.0"
      borderopacity="1"
-     bordercolor="#0002ea"
+     bordercolor="#0002cc"
      pagecolor="#000000"
      id="base"
      inkscape:zoom="5.656854"
      inkscape:cx="22.097088"
-     inkscape:cy="53.1214"
+     inkscape:cy="53.209788"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -72,7 +73,7 @@
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
-       opacity="0.14901961"
+       opacity="0.14902"
        empspacing="5"
        dotted="false"
        gridanglex="30"
