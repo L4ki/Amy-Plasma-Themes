@@ -75,7 +75,7 @@ Added new icons: apps 48
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
 
-Update widget: plasmoidheadingt.svg
+Update widget: plasmoidheading.svg
 
 
 
