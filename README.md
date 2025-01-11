@@ -59,18 +59,18 @@ Screenshots "Amy-Ligh-Plasma"
 
 
 
-Changelog: 04.01.2025.
+Changelog: 1.01.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: styles
+Update: gtkrc
 
 Icons
 ------
 
-Added new icons: apps 48
+Added new icons: actions 22
 
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
