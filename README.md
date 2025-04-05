@@ -70,7 +70,7 @@ Update: hacks.rc
 Icons
 ------
 
-Added new icons:apps 24
+Added new icons: apps 24
 
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
