@@ -1,39 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="40"
-   height="130"
+   width="140"
+   height="44"
    version="1.1"
-   id="svg140"
+   viewBox="0 0 140 44"
+   id="svg96"
    sodipodi:docname="menubaritem.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4.2 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs100" />
   <sodipodi:namedview
-     id="namedview142"
-     pagecolor="#000000"
-     bordercolor="#2000ff"
+     id="namedview98"
+     pagecolor="#182335"
+     bordercolor="#5975a4"
      borderopacity="1"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      showgrid="true"
-     inkscape:showpageshadow="false"
-     inkscape:zoom="4.2669041"
-     inkscape:cx="19.920766"
-     inkscape:cy="73.824017"
+     inkscape:zoom="4.1037447"
+     inkscape:cx="77.612041"
+     inkscape:cy="32.287584"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg140"
-     inkscape:lockguides="true"
-     inkscape:deskcolor="#000000">
+     inkscape:current-layer="svg96"
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#182335">
     <inkscape:grid
        type="xygrid"
-       id="grid1509"
+       id="grid355"
        originx="0"
        originy="0"
        spacingy="1"
@@ -41,423 +44,396 @@
        units="px"
        visible="true" />
   </sodipodi:namedview>
-  <defs
-     id="1987">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Highlight { stop-color:#31354f;    color:#31354f; }
-.ColorScheme-Text { stop-color:#20212b;    color:#20212b; }
-</style>
-  </defs>
-  <path
-     id="normal-center"
-     fill="transparent"
-     d="M 30,8 V 30 H 8 V 8 Z"
-     style="fill:#eff0f1;fill-opacity:1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-ButtonBackground {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }
+        .ColorScheme-ButtonHover {
+            color:#93cee9;
+            stop-color:#93cee9;
+        }
+        .ColorScheme-ButtonFocus{
+            color:#3daee9;
+            stop-color:#3daee9;
+        }</style>
   <g
      id="normal-left"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(0,-1,-2.5,0,78,37)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 0,6 H 6 V 28 H 0 Z"
-       id="path46" />
-    <path
+       d="M 26,30.4 H 4 V 28 h 22 z"
        fill="transparent"
-       d="M 2,6 H 6 V 28 H 2 Z"
-       id="path48"
-       style="fill:#eff0f1;fill-opacity:1" />
+       id="path19"
+       style="stroke-width:1.09545" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#normal-top"
+     id="normal-bottom"
+     transform="rotate(180,20,22)" />
+  <g
+     id="normal-right"
+     transform="matrix(0,1,2.5,0,-38,7)">
+    <path
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="transparent"
+       id="path21"
+       style="stroke-width:1.09545" />
+  </g>
+  <g
+     id="normal-center"
+     transform="translate(-171,-57)">
+    <path
+       d="m 180,68 h 22 v 22 h -22 z"
+       fill="transparent"
+       fill-rule="evenodd"
+       id="path3" />
   </g>
   <g
      id="normal-topleft"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(2.5,0,0,-2.5,3,80)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 0,0 H 6 V 6 H 0 Z"
-       id="path51" />
+       d="m -0.4,28 v 3.6 H 2 V 28 Z"
+       id="path16"
+       style="fill:none;stroke-width:1.22474" />
     <path
+       d="m -0.4,28 c 0,1.3296 1.0704,2.4 2.4,2.4 V 28 Z"
        fill="transparent"
-       d="M 6,2 V 6 H 2 C 2,2 6,2 6,2 Z"
-       id="path53"
-       style="fill:#eff0f1;fill-opacity:1" />
-  </g>
-  <g
-     id="normal-right"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,6 h 6 v 22 h -6 z"
-       id="path56" />
-    <path
-       fill="transparent"
-       d="m 28,6 h 4 v 22 h -4 z"
-       id="path58"
-       style="fill:#eff0f1;fill-opacity:1" />
+       id="path12" />
   </g>
   <g
      id="normal-top"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(1,0,0,-2.5,5,80)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 28,0 V 6 H 6 V 0 Z"
-       id="path61" />
+       d="M 26,31.6 H 4 V 28 h 22 z"
+       id="path17"
+       style="fill:none" />
     <path
+       d="M 26,30.4 H 4 V 28 h 22 z"
        fill="transparent"
-       d="M 28,2 V 6 H 6 V 2 Z"
-       id="path63"
-       style="fill:#eff0f1;fill-opacity:1" />
+       id="path15"
+       style="stroke-width:1.09545" />
   </g>
-  <g
-     id="normal-bottom"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,28 v 6 H 6 v -6 z"
-       id="path66" />
-    <path
-       fill="transparent"
-       d="m 28,28 v 4 H 6 v -4 z"
-       id="path68"
-       style="fill:#eff0f1;fill-opacity:1" />
-  </g>
-  <g
-     id="normal-bottomright"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,28 h 6 v 6 h -6 z"
-       id="path71" />
-    <path
-       fill="transparent"
-       d="m 28,32 v -4 h 4 c 0,4 -4,4 -4,4 z"
-       id="path73"
-       style="fill:#eff0f1;fill-opacity:1" />
-  </g>
-  <g
-     id="normal-topright"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,0 h 6 v 6 h -6 z"
-       id="path76" />
-    <path
-       fill="transparent"
-       d="m 28,2 v 4 h 4 C 32,2 28,2 28,2 Z"
-       id="path78"
-       style="fill:#eff0f1;fill-opacity:1" />
-  </g>
-  <g
-     id="normal-bottomleft"
-     transform="translate(2,2)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 0,28 h 6 v 6 H 0 Z"
-       id="path81" />
-    <path
-       fill="transparent"
-       d="M 6,32 V 28 H 2 c 0,4 4,4 4,4 z"
-       id="path83"
-       style="fill:#eff0f1;fill-opacity:1" />
-  </g>
-  <path
-     id="pressed-center"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1"
-     d="m 30,99 v 22.00001 H 8 V 99 Z"
-     class="ColorScheme-Highlight" />
-  <g
-     id="pressed-left"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 0,6 H 6 V 28 H 0 Z"
-       id="path87" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="M 2,6 H 6 V 28 H 2 Z"
-       id="path89"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-topleft"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 0,0 H 6 V 6 H 0 Z"
-       id="path92" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="M 6,2 V 6 H 2 C 2,2 6,2 6,2 Z"
-       id="path94"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-right"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,6 h 6 v 22 h -6 z"
-       id="path97" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="m 28,6 h 4 v 22 h -4 z"
-       id="path99"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-top"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 28,0 V 6 H 6 V 0 Z"
-       id="path102" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="M 28,2 V 6 H 6 V 2 Z"
-       id="path104"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-bottom"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,28 v 6 H 6 v -6 z"
-       id="path107" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="m 28,28 v 4 H 6 v -4 z"
-       id="path109"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-bottomright"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,28 h 6 v 6 h -6 z"
-       id="path112" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="m 28,32 v -4 h 4 c 0,4 -4,4 -4,4 z"
-       id="path114"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-topright"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 28,0 h 6 v 6 h -6 z"
-       id="path117" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="m 28,2 v 4 h 4 C 32,2 28,2 28,2 Z"
-       id="path119"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-bottomleft"
-     transform="translate(2,93)"
-     style="opacity:1;fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 0,28 h 6 v 6 H 0 Z"
-       id="path122" />
-    <path
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       d="M 6,32 V 28 H 2 c 0,4 4,4 4,4 z"
-       id="path124"
-       class="ColorScheme-Highlight" />
-  </g>
-  <path
-     id="normal-hint-top-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 18,2 h 2 v 6 h -2 z" />
-  <path
-     id="normal-hint-bottom-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 18,30 h 2 v 6 h -2 z" />
-  <path
-     id="normal-hint-left-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 2,18 h 6.0000002 v 2 H 2 Z" />
-  <path
-     id="normal-hint-right-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 30,18 h 6 v 2 h -6 z" />
-  <path
-     id="pressed-hint-top-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 18,93 h 2 v 6 h -2 z" />
-  <path
-     id="pressed-hint-bottom-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 18,121.00001 h 2 v 6 h -2 z" />
-  <path
-     id="pressed-hint-left-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 2,109 h 6 v 2 H 2 Z" />
-  <path
-     id="pressed-hint-right-margin"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 30,109 h 6 v 2 h -6 z" />
-  <rect
-     id="hint-stretch-borders"
-     style="opacity:0.01;fill:#008080"
-     width="2"
-     height="2"
-     x="38"
-     y="0" />
   <g
      id="hover-center"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="translate(-59,-133)">
     <path
-       id="hover-center-3"
-       style="opacity:1;fill:#eff0f1;fill-opacity:1"
-       class="ColorScheme-Highlight"
-       d="M 30,46 V 68 H 8 V 46 Z" />
-  </g>
-  <g
-     id="hover-left"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="M 2,46 H 8 V 68 H 2 Z"
-       id="path5-7" />
-    <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="M 4,46 H 8 V 68 H 4 Z"
-       id="path7-5"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-Text"
+       d="m 118,144 h 22 v 22 h -22 z"
+       fill="currentColor"
+       id="path34"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
   </g>
   <g
      id="hover-topleft"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(2.5,0,0,-2.5,53,80)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 2,40 h 6 v 6 H 2 Z"
-       id="path10-5" />
+       d="M 2,31.6 H -0.4 V 28 H 2 Z"
+       id="path1"
+       style="fill:none" />
     <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="m 8,42 v 4 H 4 c 0,-4 4,-4 4,-4 z"
-       id="path12-6"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="hover-right"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+       class="ColorScheme-Text"
+       d="M 2,30.4 C 0.6704,30.4 -0.4,29.3296 -0.4,28 H 2 Z"
+       fill="currentColor"
+       id="path43"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 30,46 h 6 v 22 h -6 z"
-       id="path15-9" />
-    <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="m 30,46 h 4 v 22 h -4 z"
-       id="path17-1"
-       class="ColorScheme-Highlight" />
+       id="path4"
+       style="opacity:0.1;fill:#ffffff"
+       d="m 2,30.4 c -1.32959867,0 -2.4,-1.070401 -2.4,-2.4 h 0.0335938 C -0.17695412,29.137782 0.8068225,30 2,30 Z" />
   </g>
   <g
      id="hover-top"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(1,0,0,-2.5,55,80)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 30,40 v 6 H 8 v -6 z"
-       id="path20-7" />
+       d="M 26,31.6 H 4 V 28 h 22 z"
+       id="path2"
+       style="fill:none" />
     <path
-       style="fill:#eff0f1;fill-opacity:1"
-       class="  ColorScheme-Highlight"
-       d="m 30,42 v 4 H 8 v -4 z"
-       id="path22-0" />
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path46"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
+    <path
+       d="M 26,30.4 H 4 V 30 h 22 z"
+       id="path6"
+       style="opacity:0.1;fill:#ffffff" />
   </g>
   <g
-     id="hover-bottom"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+     id="pressed-center"
+     transform="translate(-9,-133)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 30,68 v 6 H 8 v -6 z"
-       id="path25-3" />
-    <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="m 30,68 v 4 H 8 v -4 z"
-       id="path27-6"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-Text"
+       d="m 118,144 h 22 v 22 h -22 z"
+       fill="currentColor"
+       id="path65"
+       style="opacity:0.75;fill:#4370a2;fill-opacity:1" />
   </g>
+  <g
+     id="pressed-topleft"
+     transform="matrix(2.5,0,0,-2.5,103,80)">
+    <path
+       class="ColorScheme-Text"
+       d="M 2,30.4 C 0.6704,30.4 -0.4,29.3296 -0.4,28 H 2 Z"
+       fill="currentColor"
+       id="path74"
+       style="opacity:0.75;fill:#4471a1;fill-opacity:1" />
+    <path
+       d="M 2,31.6 H -0.4 V 28 H 2 Z"
+       id="path8"
+       style="fill:none" />
+    <path
+       id="path26"
+       d="m 2,30.4 c -1.32959867,0 -2.4,-1.070401 -2.4,-2.4 h 0.0335938 C -0.17695412,29.137782 0.8068225,30 2,30 Z"
+       style="opacity:0.1;fill:#ffffff" />
+  </g>
+  <g
+     id="pressed-top"
+     transform="matrix(1,0,0,-2.5,105,80)">
+    <path
+       d="M 26,31.6 H 4 V 28 h 22 z"
+       id="path9"
+       style="fill:none" />
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path77"
+       style="opacity:0.75;fill:#4470a1;fill-opacity:1" />
+    <path
+       d="M 26,30.4 H 4 V 30 h 22 z"
+       id="path27"
+       style="opacity:0.1;fill:#ffffff" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#normal-topleft"
+     id="normal-topright"
+     transform="matrix(-1,0,0,1,40,0)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#normal-topleft"
+     id="normal-bottomright"
+     transform="rotate(180,20,22)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#normal-topleft"
+     id="normal-bottomleft"
+     transform="matrix(1,0,0,-1,0,44)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-topleft"
+     id="hover-topright"
+     transform="matrix(-1,0,0,1,140,0)" />
   <g
      id="hover-bottomright"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(-2.5,0,0,2.5,87,-36)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 30,68 h 6 v 6 h -6 z"
-       id="path30-6" />
+       d="M 2,31.6 H -0.4 V 28 H 2 Z"
+       id="path20"
+       style="fill:none" />
     <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="m 30,72 v -4 h 4 c 0,4 -4,4 -4,4 z"
-       id="path32-2"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="hover-topright"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
-    <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 30,40 h 6 v 6 h -6 z"
-       id="path35-1" />
-    <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="m 30,42 v 4 h 4 c 0,-4 -4,-4 -4,-4 z"
-       id="path37-8"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-Text"
+       d="M 2,30.4 C 0.6704,30.4 -0.4,29.3296 -0.4,28 H 2 Z"
+       fill="currentColor"
+       id="path22"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
   </g>
   <g
      id="hover-bottomleft"
-     transform="translate(0,8)"
-     style="fill:#eff0f1;fill-opacity:1">
+     transform="matrix(2.5,0,0,2.5,53,-36)">
     <path
-       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
-       d="m 2,68 h 6 v 6 H 2 Z"
-       id="path40-9" />
+       d="M 2,31.6 H -0.4 V 28 H 2 Z"
+       id="path10"
+       style="fill:none" />
     <path
-       style="fill:#eff0f1;fill-opacity:1"
-       d="M 8,72 V 68 H 4 c 0,4 4,4 4,4 z"
-       id="path42-2"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-Text"
+       d="M 2,30.4 C 0.6704,30.4 -0.4,29.3296 -0.4,28 H 2 Z"
+       fill="currentColor"
+       id="path13"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
+  </g>
+  <g
+     id="hover-right"
+     transform="matrix(0,1,2.5,0,12,7)">
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path7"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
+  </g>
+  <g
+     id="hover-bottom"
+     transform="matrix(-1,0,0,2.5,85,-36)">
+    <path
+       d="M 26,31.6 H 4 V 28 h 22 z"
+       id="path24"
+       style="fill:none" />
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path25"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
+  </g>
+  <g
+     id="hover-left"
+     transform="matrix(0,-1,-2.5,0,128,37)">
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path5"
+       style="opacity:0.55;fill:#5c89ba;fill-opacity:1" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#pressed-topleft"
+     id="pressed-topright"
+     transform="matrix(-1,0,0,1,240,0)" />
+  <g
+     id="pressed-bottomright"
+     transform="matrix(-2.5,0,0,2.5,137,-36)">
+    <path
+       class="ColorScheme-Text"
+       d="M 2,30.4 C 0.6704,30.4 -0.4,29.3296 -0.4,28 H 2 Z"
+       fill="currentColor"
+       id="path35"
+       style="opacity:0.75;fill:#4471a1;fill-opacity:1" />
+    <path
+       d="M 2,31.6 H -0.4 V 28 H 2 Z"
+       id="path36"
+       style="fill:none" />
+  </g>
+  <g
+     id="pressed-bottomleft"
+     transform="matrix(2.5,0,0,2.5,103,-36)">
+    <path
+       class="ColorScheme-Text"
+       d="M 2,30.4 C 0.6704,30.4 -0.4,29.3296 -0.4,28 H 2 Z"
+       fill="currentColor"
+       id="path28"
+       style="opacity:0.75;fill:#4470a1;fill-opacity:1" />
+    <path
+       d="M 2,31.6 H -0.4 V 28 H 2 Z"
+       id="path29"
+       style="fill:none" />
+  </g>
+  <g
+     id="pressed-right"
+     transform="matrix(0,1,2.5,0,62,7)">
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path14"
+       style="opacity:0.75;fill:#4471a1;fill-opacity:1" />
+  </g>
+  <g
+     id="pressed-bottom"
+     transform="matrix(-1,0,0,2.5,135,-36)">
+    <path
+       d="M 26,31.6 H 4 V 28 h 22 z"
+       id="path31"
+       style="fill:none" />
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path32"
+       style="opacity:0.75;fill:#4471a1;fill-opacity:1" />
+  </g>
+  <g
+     id="pressed-left"
+     transform="matrix(0,-1,-2.5,0,178,37)">
+    <path
+       class="ColorScheme-Text"
+       d="M 26,30.4 H 4 V 28 h 22 z"
+       fill="currentColor"
+       id="path11"
+       style="opacity:0.74999999;fill:#4572a2;fill-opacity:1" />
   </g>
   <path
-     id="hover-hint-top-margin-0"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 18,48 h 2 v 6 h -2 z" />
+     id="normal-hint-top-margin"
+     d="m 19,2 h 2 v 9 h -2 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
   <path
-     id="hover-hint-bottom-margin-2"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 18,76 h 2 v 6 h -2 z" />
+     id="normal-hint-bottom-margin"
+     d="m 19,33 h 2 v 9 h -2 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
   <path
-     id="hover-hint-left-margin-3"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 2,64 h 6 v 2 H 2 Z" />
+     id="normal-hint-left-margin"
+     d="m 0,21 h 9 v 2 H 0 Z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
   <path
-     id="hover-hint-right-margin-7"
-     style="opacity:0.01;fill:#eff0f1;fill-opacity:1"
-     d="m 30,64 h 6 v 2 h -6 z" />
+     id="normal-hint-right-margin"
+     d="m 31,21 h 9 v 2 h -9 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
+  <path
+     id="hover-hint-top-margin"
+     d="m 69,2 h 2 v 9 h -2 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474" />
+  <path
+     id="hover-hint-bottom-margin"
+     d="m 69,33 h 2 v 9 h -2 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474" />
+  <path
+     id="hover-hint-left-margin"
+     d="m 50,21 h 9 v 2 h -9 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
+  <path
+     id="hover-hint-right-margin"
+     d="m 81,21 h 9 v 2 h -9 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
+  <path
+     id="pressed-hint-top-margin"
+     d="m 119,2 h 2 v 9 h -2 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;fill-opacity:1;stroke-width:1.22474"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="pressed-hint-bottom-margin"
+     d="m 119,33 h 2 v 9 h -2 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;fill-opacity:1;stroke-width:1.22474"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="pressed-hint-left-margin"
+     d="m 100,21 h 9 v 2 h -9 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
+  <path
+     id="pressed-hint-right-margin"
+     d="m 131,21 h 9 v 2 h -9 z"
+     fill="#ed333b"
+     fill-rule="evenodd"
+     style="fill:#2a7fff;stroke-width:1.22474;fill-opacity:1" />
 </svg>
