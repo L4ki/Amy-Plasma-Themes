@@ -59,13 +59,13 @@ Screenshots "Amy-Ligh-Plasma"
 
 
 
-Changelog: 28.06.2025.
+Changelog: 05.07.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: styles
+Update: gtkrc
 
 Icons
 ------
