@@ -2328,7 +2328,7 @@ widget_class "*<GtkCustomMenu>*<GtkCustomMenuItem>*"                style "chrom
 
 # Eclipse/SWT
 widget "gtk-tooltips*" style "eclipse-tooltips"
-widget "*swt-toolbar-flat"style "null"
+widget "*swt-toolbar-flat" style "null"
 
 # Openoffice, Libreoffice
 class "GtkWindow"style "toplevel_hack"
