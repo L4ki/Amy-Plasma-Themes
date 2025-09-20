@@ -58,13 +58,13 @@ Screenshots "Amy-Ligh-Plasma"
 ![5](https://user-images.githubusercontent.com/45247573/232206178-b1ac88f4-ff1d-438d-b81c-bafe46a5e2eb.jpg)
 
 
-Changelog: 13.09.2025.
+Changelog: 20.09.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtk-3.0
+Update: main.rc
 
 Icons
 ------
