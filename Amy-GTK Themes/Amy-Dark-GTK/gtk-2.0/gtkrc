@@ -17,6 +17,7 @@ gtk-icon-sizes = "gtk-button=14,14" # This makes button icons smaller.
 gtk-auto-mnemonics =  1
 gtk-primary-button-warps-slider = 1
 
+
 # And hand over the control to the theme files
 include "main.rc"
 include "apps.rc"
