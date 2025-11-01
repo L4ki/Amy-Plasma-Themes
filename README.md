@@ -58,18 +58,18 @@ Screenshots "Amy-Ligh-Plasma"
 ![5](https://user-images.githubusercontent.com/45247573/232206178-b1ac88f4-ff1d-438d-b81c-bafe46a5e2eb.jpg)
 
 
-Changelog: 25.10.2025.
+Changelog: 01.11.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: gtk-4.0
 
 Icons
 ------
 
-Added new icons: appss 48
+Added new icons: appss 22
 
 Plasma Themes "Amy-Plasma" and "Amy-Light-Plasma"
 -------------------------------------------------
